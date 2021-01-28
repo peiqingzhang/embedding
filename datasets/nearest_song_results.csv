@@ -1,0 +1,1203 @@
+,trackId,trackTitle,artistName,genre,nearest_trackId,nearest_trackTitle,nearest_artistName,nearest_genre,min_distance
+0,33489248,Formation,Beyoncé,pop,33489281,SORRY,Beyoncé,pop,0.1102838392678317
+1,33489281,SORRY,Beyoncé,pop,34255906,DON’T HURT YOURSELF,Beyoncé,pop,0.08270867973307727
+2,41787264,HUMBLE.,Kendrick Lamar,hiphop,42109174,DNA.,Kendrick Lamar,hiphop,0.05159302910569996
+3,33489283,HOLD UP,Beyoncé,pop,33489275,ALL NIGHT,Beyoncé,pop,0.06334013340739075
+4,30161031,Ni**as In Paris,JAY-Z,hiphop,30542058,'Till I Collapse,Eminem,hiphop,0.32547642823225675
+5,33489275,ALL NIGHT,Beyoncé,pop,33489283,HOLD UP,Beyoncé,pop,0.06334013340739075
+6,46864793,Sorry,Justin Bieber,pop,46878456,Love Yourself,Justin Bieber,pop,0.13636777405211797
+7,46880246,Someone Like You,Adele,pop,32731574,Rolling In The Deep,Adele,pop,0.1734888508800102
+8,39406930,Hello,Adele,pop,46880246,Someone Like You,Adele,pop,0.24778033483092865
+9,42109178,LOVE.,Kendrick Lamar,hiphop,42109171,LOYALTY.,Kendrick Lamar,hiphop,0.1712949073255129
+10,42109171,LOYALTY.,Kendrick Lamar,hiphop,41787264,HUMBLE.,Kendrick Lamar,hiphop,0.16032826037587944
+11,40310046,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,pop,32731648,Send My Love (To Your New Lover),Adele,pop,0.3158540568281516
+12,42109174,DNA.,Kendrick Lamar,hiphop,41787264,HUMBLE.,Kendrick Lamar,hiphop,0.05159302910569996
+13,46878456,Love Yourself,Justin Bieber,pop,46864793,Sorry,Justin Bieber,pop,0.13636777405211797
+14,34255906,DON’T HURT YOURSELF,Beyoncé,pop,33489281,SORRY,Beyoncé,pop,0.08270867973307727
+15,41663223,What Do You Mean?,Justin Bieber,pop,46864793,Sorry,Justin Bieber,pop,0.14807525201121197
+16,32731574,Rolling In The Deep,Adele,pop,46880246,Someone Like You,Adele,pop,0.1734888508800102
+17,35548930,Lose Yourself,Eminem,hiphop,30542058,'Till I Collapse,Eminem,hiphop,0.17433145816674067
+18,35549495,Love The Way You Lie - (feat. Rihanna),Eminem,hiphop,35548673,Without Me,Eminem,hiphop,0.2398486372172398
+19,48660331,All The Stars,Kendrick Lamar,hiphop,42109178,LOVE.,Kendrick Lamar,hiphop,0.20010717727323746
+20,34887050,Sweet Child O' Mine,Guns N' Roses,rock,34887040,Welcome To The Jungle,Guns N' Roses,rock,0.1423599079949036
+21,45001002,Sky Walker,Miguel,rnb,42109178,LOVE.,Kendrick Lamar,hiphop,0.1783900755299327
+22,39866802,Love Me Like You Do,Ellie Goulding,pop,46864793,Sorry,Justin Bieber,pop,0.32264551962292864
+23,32593640,Bohemian Rhapsody,Queen,rock,32593519,Another One Bites The Dust,Queen,rock,0.19785944289880864
+24,43676103,Bam,JAY-Z,hiphop,43676106,The Story of O.J.,JAY-Z,hiphop,0.20528024801227496
+25,46860064,In Da Club,50 Cent,hiphop,55468200,Purple Pills,D12,hiphop,0.32532951042939173
+26,41283674,Burn,Ellie Goulding,pop,46874276,Wrecking Ball,Miley Cyrus,pop,0.12353417689549373
+27,43676106,The Story of O.J.,JAY-Z,hiphop,43676102,Family Feud,JAY-Z,hiphop,0.07904020976572279
+28,32750199,Mirrors,Justin Timberlake,pop,39585162,We Can't Stop,Miley Cyrus,pop,0.2604087162051818
+29,46874276,Wrecking Ball,Miley Cyrus,pop,41283674,Burn,Ellie Goulding,pop,0.12353417689549373
+30,39585162,We Can't Stop,Miley Cyrus,pop,46874276,Wrecking Ball,Miley Cyrus,pop,0.174878242438117
+31,33525912,September,"Earth, Wind & Fire",pop,33525528,Boogie Wonderland,"Earth, Wind & Fire",pop,0.17756629525252898
+32,46874274,Adorn,Miguel,rnb,47021853,Sure Thing,Miguel,rnb,0.1881950258327747
+33,31368437,Part II (On The Run),JAY-Z,hiphop,43676103,Bam,JAY-Z,hiphop,0.2800843623034298
+34,43676102,Family Feud,JAY-Z,hiphop,43676106,The Story of O.J.,JAY-Z,hiphop,0.07904020976572279
+35,32731648,Send My Love (To Your New Lover),Adele,pop,32731653,When We Were Young,Adele,pop,0.22159283257449636
+36,30542058,'Till I Collapse,Eminem,hiphop,55468202,Fight Music,D12,hiphop,0.15087957527863483
+37,30625352,"Young, Wild & Free (feat. Bruno Mars)",Snoop Dogg,hiphop,30542058,'Till I Collapse,Eminem,hiphop,0.4282455555011535
+38,41426788,Poker Face,Lady Gaga,pop,46874505,Bad Romance,Lady Gaga,pop,0.18313922955606943
+39,34887049,Paradise City,Guns N' Roses,rock,34887040,Welcome To The Jungle,Guns N' Roses,rock,0.13874102591580584
+40,33176233,Juicy,The Notorious B.I.G.,hiphop,47408648,Big Poppa,The Notorious B.I.G.,hiphop,0.186233823114494
+41,30183113,The Next Episode,Dr. Dre,hiphop,29055239,Check Yo Self,Ice Cube,hiphop,0.16586928315691418
+42,34887040,Welcome To The Jungle,Guns N' Roses,rock,34887049,Paradise City,Guns N' Roses,rock,0.13874102591580584
+43,32731653,When We Were Young,Adele,pop,32731648,Send My Love (To Your New Lover),Adele,pop,0.22159283257449636
+44,46874505,Bad Romance,Lady Gaga,pop,41426788,Poker Face,Lady Gaga,pop,0.18313922955606943
+45,46869595,Cry Me A River,Justin Timberlake,pop,35896883,Lady Marmalade,Christina Aguilera,pop,0.4192296051509493
+46,41664051,Ho Hey,The Lumineers,pop,29094810,Stubborn Love,The Lumineers,pop,0.25290973995286736
+47,31016316,Back In Black,AC/DC,rock,53469098,Highway To Hell,AC/DC,rock,0.08350126831838867
+48,42653391,Malibu,Miley Cyrus,pop,42213095,The Cure,Lady Gaga,pop,0.14586380536419208
+49,46946811,Superstition,Stevie Wonder,rnb,46946775,Sir Duke,Stevie Wonder,rnb,0.19333819756901094
+50,41206320,I Want You Back,The Jackson 5,pop,47016448,Respect,Aretha Franklin,soul,0.2357613498279456
+51,41662759,Sexual Healing,Marvin Gaye,rnb,47005189,Nightshift,The Commodores,pop,0.2766007423864333
+52,47021853,Sure Thing,Miguel,rnb,46874274,Adorn,Miguel,rnb,0.1881950258327747
+53,41204529,Sweet Home Alabama,Lynyrd Skynyrd,rock,29063128,Have You Ever Seen The Rain?,Creedence Clearwater Revival,rock,0.19629414029177594
+54,47226436,November Rain,Guns N' Roses,rock,34887049,Paradise City,Guns N' Roses,rock,0.1949728827430054
+55,39624557,Don't Stop Me Now,Queen,rock,32593833,I Want To Break Free,Queen,rock,0.10430751640104197
+56,53469098,Highway To Hell,AC/DC,rock,51450473,Hells Bells,AC/DC,rock,0.06726435274010578
+57,52953642,Thunderstruck,AC/DC,rock,39583701,You Shook Me All Night Long,AC/DC,rock,0.14146651081728367
+58,49294377,In The End,Linkin Park,alternative,51705716,Numb (Album Version),Linkin Park,alternative,0.07039092225119159
+59,35548673,Without Me,Eminem,hiphop,55468201,My Band,D12,hiphop,0.2346048021035767
+60,51705716,Numb (Album Version),Linkin Park,alternative,49294377,In The End,Linkin Park,alternative,0.07039092225119159
+61,47408648,Big Poppa,The Notorious B.I.G.,hiphop,33176280,Hypnotize (Explicit Album Version),The Notorious B.I.G.,hiphop,0.10634426857562052
+62,48896677,Wish You Were Here (2011 Remastered Version),Pink Floyd,pop,48896700,Comfortably Numb (2011 Remastered Version),Pink Floyd,pop,0.10879627234231815
+63,41623967,21 Questions,50 Cent,hiphop,29035067,Many Men (Wish Death),50 Cent,hiphop,0.16860725358161455
+64,47285226,Come Through and Chill,Miguel,rnb,45001002,Sky Walker,Miguel,rnb,0.18205644773583984
+65,46658681,Friends,Justin Bieber,pop,42653391,Malibu,Miley Cyrus,pop,0.22446542972377626
+66,32277907,Gin And Juice (feat. Dat Nigga Daz),Snoop Dogg,hiphop,29055338,You Know How We Do It (Digitally Remastered 03),Ice Cube,hiphop,0.15619103681347857
+67,46874236,Let's Stay Together,Al Green,rnb,41445528,I'll Be Around (LP Version),Spinners,soul,0.18360245777358397
+68,46858253,Wind Of Change,Scorpions,rock,34887057,Don't Cry (Original),Guns N' Roses,rock,0.15695667176554695
+69,55810916,All Along the Watchtower,Jimi Hendrix,rock,55810917,Voodoo Child (Slight Return),Jimi Hendrix,rock,0.1098322164387272
+70,46880474,It Was A Good Day (Album Version),Ice Cube,hiphop,30183113,The Next Episode,Dr. Dre,hiphop,0.2296673106425524
+71,33176280,Hypnotize (Explicit Album Version),The Notorious B.I.G.,hiphop,47408648,Big Poppa,The Notorious B.I.G.,hiphop,0.10634426857562052
+72,41204460,I Was Made For Lovin' You,Kiss,rock,46871837,Poison,Alice Cooper,rock,0.18297844804608687
+73,40733138,Company,Justin Bieber,pop,46864793,Sorry,Justin Bieber,pop,0.14775198605732154
+74,47906908,River,Eminem,hiphop,49413987,Say Something,Justin Timberlake,pop,0.2514276486226067
+75,46869618,Never Too Much,Luther Vandross,pop,47249898,Let's Groove (Album Version),"Earth, Wind & Fire",pop,0.19835532134646006
+76,30183094,Forgot About Dre,Dr. Dre,hiphop,30495888,What's The Difference,Dr. Dre,hiphop,0.1202982154986334
+77,29063128,Have You Ever Seen The Rain?,Creedence Clearwater Revival,rock,46953869,Bad Moon Rising,Creedence Clearwater Revival,rock,0.14286447339613295
+78,46858676,What's Going On,Marvin Gaye,rnb,47449369,A Change Is Gonna Come,Sam Cooke,pop,0.1379074021536657
+79,46871837,Poison,Alice Cooper,rock,29086108,Fear Of The Dark (1998 Remastered Version),Iron Maiden,rock,0.13949155667834445
+80,34822928,Chop Suey! (Album Version),System Of A Down,pop,34822937,Toxicity (Album Version),System Of A Down,pop,0.028304039281183635
+81,33427095,(I Can't Get No) Satisfaction,The Rolling Stones,rock,47022376,Whole Lotta Love,Led Zeppelin,rock,0.1621457730124921
+82,33426159,Sympathy For The Devil,The Rolling Stones,rock,33428164,Gimme Shelter,The Rolling Stones,rock,0.05203664153365861
+83,46864635,(Sittin' On) The Dock Of The Bay (LP Version),Otis Redding,soul,46868500,When A Man Loves A Woman,Percy Sledge,pop,0.22103945097100364
+84,48896700,Comfortably Numb (2011 Remastered Version),Pink Floyd,pop,48896677,Wish You Were Here (2011 Remastered Version),Pink Floyd,pop,0.10879627234231815
+85,41535498,Million Reasons,Lady Gaga,pop,40868605,Still Falling For You,Ellie Goulding,pop,0.3615013987234468
+86,53723756,Ain't No Mountain High Enough,Marvin Gaye,rnb,29060663,Ain't Too Proud To Beg,The Temptations,rnb,0.1905314136922207
+87,48896715,"Another Brick In The Wall, Pt. 2 (2011 Remastered Version)",Pink Floyd,pop,48896670,Money (2011 Remastered Version),Pink Floyd,pop,0.08079623647633027
+88,32593519,Another One Bites The Dust,Queen,rock,31117435,Rock You Like a Hurricane,Scorpions,rock,0.18518231726003453
+89,46984380,Is This Love,Bob Marley & The Wailers,reggae,48093195,Could You Be Loved,Bob Marley & The Wailers,reggae,0.12725465008744252
+90,32593239,We Will Rock You,Queen,rock,48896715,"Another Brick In The Wall, Pt. 2 (2011 Remastered Version)",Pink Floyd,pop,0.16134494649740616
+91,34887057,Don't Cry (Original),Guns N' Roses,rock,46858253,Wind Of Change,Scorpions,rock,0.15695667176554695
+92,54569796,Feeling Good,Nina Simone,jazz,29232303,Strange Fruit,Billie Holiday,jazz,0.20820934878197084
+93,48093195,Could You Be Loved,Bob Marley & The Wailers,reggae,46984380,Is This Love,Bob Marley & The Wailers,reggae,0.12725465008744252
+94,33428164,Gimme Shelter,The Rolling Stones,rock,33426159,Sympathy For The Devil,The Rolling Stones,rock,0.05203664153365861
+95,33427312,"Paint It, Black",The Rolling Stones,rock,47023496,Fortunate Son,Creedence Clearwater Revival,rock,0.15294948250640172
+96,46863816,Lights,Ellie Goulding,pop,41283674,Burn,Ellie Goulding,pop,0.28423341687372294
+97,39583701,You Shook Me All Night Long,AC/DC,rock,53469098,Highway To Hell,AC/DC,rock,0.1222528087647643
+98,47043711,Wonderful Tonight,Eric Clapton,rock,46873919,"Mama, I'm Coming Home (Album Version)",Ozzy Osbourne,rock,0.22841965392660302
+99,47016448,Respect,Aretha Franklin,soul,46868760,I Say a Little Prayer,Aretha Franklin,soul,0.1885586640311282
+100,35896883,Lady Marmalade,Christina Aguilera,pop,41426788,Poker Face,Lady Gaga,pop,0.3920244935673647
+101,27520591,I'm The Man,50 Cent,hiphop,29035067,Many Men (Wish Death),50 Cent,hiphop,0.3130497405837098
+102,47842086,Jump (Album Version),Van Halen,rock,34887049,Paradise City,Guns N' Roses,rock,0.192827582091481
+103,47249898,Let's Groove (Album Version),"Earth, Wind & Fire",pop,33525528,Boogie Wonderland,"Earth, Wind & Fire",pop,0.15358206064676527
+104,46875171,Ain't No Sunshine (Album Version),Bill Withers,pop,29074968,Lean on Me,Bill Withers,pop,0.2201736376289457
+105,41621000,Stand By Me,Ben E. King,pop,47016448,Respect,Aretha Franklin,soul,0.2178934371389456
+106,47249894,Between the Sheets,The Isley Brothers,pop,34899737,"Footsteps in the Dark, Pts. 1 & 2",The Isley Brothers,pop,0.12106387182860046
+107,54499191,Three Little Birds,Bob Marley & The Wailers,reggae,29040220,"No Woman, No Cry",Bob Marley & The Wailers,reggae,0.14498656901156914
+108,49413987,Say Something,Justin Timberlake,pop,47906908,River,Eminem,hiphop,0.2514276486226067
+109,29056087,Killing In The Name,Rage Against The Machine,rock,29055846,Bulls on Parade (Album Version),Rage Against The Machine,rock,0.14927587616892113
+110,46880607,ABC,The Jackson 5,pop,46946811,Superstition,Stevie Wonder,rnb,0.22651317652016956
+111,31884541,Telephone,Lady Gaga,pop,46874505,Bad Romance,Lady Gaga,pop,0.30659649937319033
+112,46877945,The Sound Of Silence,Disturbed,rock,29099766,Wrong Side of Heaven,Five Finger Death Punch,metal,0.19403574108511334
+113,46952309,Free Bird,Lynyrd Skynyrd,rock,47020129,Simple Man,Lynyrd Skynyrd,rock,0.15334131291685715
+114,32593833,I Want To Break Free,Queen,rock,39624557,Don't Stop Me Now,Queen,rock,0.10430751640104197
+115,29035067,Many Men (Wish Death),50 Cent,hiphop,41623967,21 Questions,50 Cent,hiphop,0.16860725358161455
+116,49622249,Tears In Heaven,Eric Clapton,rock,29040216,Layla,Eric Clapton,rock,0.21164826783030977
+117,33964633,Last Resort,Papa Roach,rock,36819219,Freak On a Leash,Korn,rock,0.1603018453166345
+118,46871412,The Boys Are Back in Town,Thin Lizzy,rock,47027331,Jailbreak,Thin Lizzy,rock,0.19316133809663427
+119,47091970,What I've Done (Album Version),Linkin Park,alternative,49294377,In The End,Linkin Park,alternative,0.0734822050259123
+120,46946775,Sir Duke,Stevie Wonder,rnb,46946811,Superstition,Stevie Wonder,rnb,0.19333819756901094
+121,42213095,The Cure,Lady Gaga,pop,42653391,Malibu,Miley Cyrus,pop,0.14586380536419208
+122,46858774,At Last,Etta James,pop,47021261,A Sunday Kind Of Love,Etta James,pop,0.18082544214131857
+123,47449369,A Change Is Gonna Come,Sam Cooke,pop,46858676,What's Going On,Marvin Gaye,rnb,0.1379074021536657
+124,34822937,Toxicity (Album Version),System Of A Down,pop,34822928,Chop Suey! (Album Version),System Of A Down,pop,0.028304039281183635
+125,41547824,The House Of The Rising Sun,The Animals,pop,33427312,"Paint It, Black",The Rolling Stones,rock,0.2160919004695656
+126,40783755,Love And Happiness,Al Green,rnb,34899695,"For the Love of You, Pts. 1 & 2",The Isley Brothers,pop,0.12704454924744113
+127,41460966,My Girl,The Temptations,rnb,29060663,Ain't Too Proud To Beg,The Temptations,rnb,0.16434093398664007
+128,47022376,Whole Lotta Love,Led Zeppelin,rock,53750167,Kashmir,Led Zeppelin,rock,0.07333922540039783
+129,51090738,Purple Haze,Jimi Hendrix,rock,55810917,Voodoo Child (Slight Return),Jimi Hendrix,rock,0.06486271260925547
+130,46861847,Way Down We Go,Kaleo,alternative,38931364,I Can't Go On Without You,Kaleo,alternative,0.1853230771819353
+131,46953869,Bad Moon Rising,Creedence Clearwater Revival,rock,29063128,Have You Ever Seen The Rain?,Creedence Clearwater Revival,rock,0.14286447339613295
+132,40310014,Party In The U.S.A.,Miley Cyrus,pop,38006682,The Climb,Miley Cyrus,pop,0.21901614485625842
+133,38006682,The Climb,Miley Cyrus,pop,40310014,Party In The U.S.A.,Miley Cyrus,pop,0.21901614485625842
+134,46865146,Like a Rolling Stone,Bob Dylan,pop,55810916,All Along the Watchtower,Jimi Hendrix,rock,0.17875468408344652
+135,29094852,Ophelia,The Lumineers,pop,29094810,Stubborn Love,The Lumineers,pop,0.2962312246038381
+136,29086176,Run to the Hills (1998 Remastered Version),Iron Maiden,rock,46928173,The Number Of The Beast (1998 Remastered Version),Iron Maiden,rock,0.057864114697113056
+137,34899695,"For the Love of You, Pts. 1 & 2",The Isley Brothers,pop,34899737,"Footsteps in the Dark, Pts. 1 & 2",The Isley Brothers,pop,0.075926812133145
+138,37952946,(Don't Fear) The Reaper,Blue Öyster Cult,rock,33426159,Sympathy For The Devil,The Rolling Stones,rock,0.2371940674941282
+139,46952360,Ace Of Spades,Motörhead,rock,46924245,The Trooper (1998 Remastered Version),Iron Maiden,rock,0.13656959809636626
+140,29040220,"No Woman, No Cry",Bob Marley & The Wailers,reggae,54499191,Three Little Birds,Bob Marley & The Wailers,reggae,0.14498656901156914
+141,48896670,Money (2011 Remastered Version),Pink Floyd,pop,48896715,"Another Brick In The Wall, Pt. 2 (2011 Remastered Version)",Pink Floyd,pop,0.08079623647633027
+142,47815251,Hey Joe,Jimi Hendrix,rock,55810923,Little Wing,Jimi Hendrix,rock,0.1776609749121827
+143,46873854,Lovely Day,Bill Withers,pop,11183466,As,Stevie Wonder,rnb,0.18965265789387253
+144,46985529,Cocaine,Eric Clapton,rock,46985525,Sunshine Of Your Love,Cream,rock,0.21866825869843687
+145,40778548,Paranoid,Black Sabbath,rock,47021901,Holy Diver,Dio,rock,0.1374204764531496
+146,29041012,Norf Norf,Vince Staples,hiphop,50792386,Get The Fuck Off My Dick,Vince Staples,hiphop,0.32769350483844195
+147,46858674,Try A Little Tenderness (LP Version),Otis Redding,soul,46864635,(Sittin' On) The Dock Of The Bay (LP Version),Otis Redding,soul,0.23547921642124747
+148,29055269,It Was A Good Day,Ice Cube,hiphop,29055239,Check Yo Self,Ice Cube,hiphop,0.22013627865450935
+149,33429813,Start Me Up,The Rolling Stones,rock,32593519,Another One Bites The Dust,Queen,rock,0.20857001212996507
+150,39413123,Xxplosive,Dr. Dre,hiphop,29055338,You Know How We Do It (Digitally Remastered 03),Ice Cube,hiphop,0.16272869973821824
+151,47059335,Nothing Else Matters,Metallica,rock,47059332,The Unforgiven,Metallica,rock,0.08667976488626217
+152,29055398,No Vaseline,Ice Cube,hiphop,29055338,You Know How We Do It (Digitally Remastered 03),Ice Cube,hiphop,0.13409273893509244
+153,34822954,B.Y.O.B.,System Of A Down,pop,34822937,Toxicity (Album Version),System Of A Down,pop,0.03880114309952454
+154,47073159,Fortunate Son,Creedence Clearwater Revival,rock,46953869,Bad Moon Rising,Creedence Clearwater Revival,rock,0.20422050873680309
+155,46985525,Sunshine Of Your Love,Cream,rock,51090738,Purple Haze,Jimi Hendrix,rock,0.1801024667225184
+156,33525528,Boogie Wonderland,"Earth, Wind & Fire",pop,47249898,Let's Groove (Album Version),"Earth, Wind & Fire",pop,0.15358206064676527
+157,11183466,As,Stevie Wonder,rnb,48796826,Voyage to Atlantis,The Isley Brothers,pop,0.18732339483977278
+158,29040216,Layla,Eric Clapton,rock,49622249,Tears In Heaven,Eric Clapton,rock,0.21164826783030977
+159,47408646,Warning,The Notorious B.I.G.,hiphop,47408883,I Love The Dough (feat. Jay-Z & Angela Winbush) [2014 Remastered Version],The Notorious B.I.G.,hiphop,0.12037083393080239
+160,47020129,Simple Man,Lynyrd Skynyrd,rock,47449680,Tuesday's Gone,Lynyrd Skynyrd,rock,0.14005998058248526
+161,55221138,I Got You (I Feel Good),James Brown,rnb,41620965,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Four Tops,pop,0.24792950930061253
+162,41123997,Walk,Kwabs,alternative,31906613,The Hanging Tree,James Newton Howard,score,0.3438236891165011
+163,47074351,Pineapple Skies,Miguel,rnb,45001002,Sky Walker,Miguel,rnb,0.29479612458344073
+164,53750215,Immigrant Song,Led Zeppelin,rock,53750167,Kashmir,Led Zeppelin,rock,0.10640878963453981
+165,32277937,"Ain't No Fun (If the Homies Cant Have None) (feat. Nate Dogg, Warren G & Kurupt)",Snoop Dogg,hiphop,30183113,The Next Episode,Dr. Dre,hiphop,0.2559034463638148
+166,49467085,Landslide,Fleetwood Mac,pop,29040216,Layla,Eric Clapton,rock,0.28294366597772724
+167,46868760,I Say a Little Prayer,Aretha Franklin,soul,46882267,(You Make Me Feel Like) A Natural Woman,Aretha Franklin,soul,0.17863148040214083
+168,47551944,Me and Bobby McGee,Janis Joplin,pop,29063128,Have You Ever Seen The Rain?,Creedence Clearwater Revival,rock,0.18654905616495976
+169,29055846,Bulls on Parade (Album Version),Rage Against The Machine,rock,29056087,Killing In The Name,Rage Against The Machine,rock,0.14927587616892113
+170,46869219,Everywhere,Fleetwood Mac,pop,41624223,We Don't Need Another Hero (Thunderdome),Tina Turner,pop,0.3281548807746095
+171,46868500,When A Man Loves A Woman,Percy Sledge,pop,53781097,My Girl,The Temptations,rnb,0.14949578134541408
+172,29086108,Fear Of The Dark (1998 Remastered Version),Iron Maiden,rock,46924245,The Trooper (1998 Remastered Version),Iron Maiden,rock,0.09629366137689888
+173,55810917,Voodoo Child (Slight Return),Jimi Hendrix,rock,51090738,Purple Haze,Jimi Hendrix,rock,0.06486271260925547
+174,46868553,What's Love Got to Do with It,Tina Turner,pop,41624223,We Don't Need Another Hero (Thunderdome),Tina Turner,pop,0.24583852184943378
+175,32315229,Here I Go Again 87 (2007 Remastered Version),Whitesnake,rock,46871837,Poison,Alice Cooper,rock,0.17005686656968488
+176,47028075,Here And Now (Album Version),Luther Vandross,pop,47819288,If Only for One Night,Luther Vandross,pop,0.1555184124742911
+177,46928173,The Number Of The Beast (1998 Remastered Version),Iron Maiden,rock,29086176,Run to the Hills (1998 Remastered Version),Iron Maiden,rock,0.057864114697113056
+178,34566772,Riders On The Storm,The Doors,rock,40380298,Child In Time (1995 Remastered Version),Deep Purple,rock,0.2135048015696127
+179,41445495,Move On Up,Curtis Mayfield,soul,46865664,If You Want Me To Stay,Sly & The Family Stone,pop,0.23157946374634786
+180,55407424,The Chain,Fleetwood Mac,pop,55407422,Go Your Own Way,Fleetwood Mac,pop,0.12673676689491786
+181,55407419,Dreams,Fleetwood Mac,pop,55407422,Go Your Own Way,Fleetwood Mac,pop,0.10550999286203411
+182,55096431,The Closer I Get to You,Luther Vandross,pop,47058755,A House Is Not a Home,Luther Vandross,pop,0.21010253009143665
+183,47058755,A House Is Not a Home,Luther Vandross,pop,51502938,Cry Together,The O'Jays,pop,0.1292775684797216
+184,34101883,Smoke On The Water (1997 Remastered Version),Deep Purple,rock,40778548,Paranoid,Black Sabbath,rock,0.15098049972122451
+185,29062724,Turn Your Lights Down Low (feat. Lauryn Hill),Bob Marley & The Wailers,reggae,46984380,Is This Love,Bob Marley & The Wailers,reggae,0.19487935681396773
+186,46873919,"Mama, I'm Coming Home (Album Version)",Ozzy Osbourne,rock,29086108,Fear Of The Dark (1998 Remastered Version),Iron Maiden,rock,0.13277009137191187
+187,47100235,Light My Fire ( LP Version ),The Doors,rock,33427312,"Paint It, Black",The Rolling Stones,rock,0.16719636802633064
+188,47059341,Enter Sandman,Metallica,rock,47059332,The Unforgiven,Metallica,rock,0.08946082159852142
+189,47023496,Fortunate Son,Creedence Clearwater Revival,rock,33427312,"Paint It, Black",The Rolling Stones,rock,0.15294948250640172
+190,31500122,"Can't Get Enough Of Your Love, Babe",Barry White,pop,33525912,September,"Earth, Wind & Fire",pop,0.2720779627116273
+191,40309960,Just My Imagination (Running Away With Me),The Temptations,rnb,47006875,Midnight Train to Georgia,Gladys Knight & The Pips,pop,0.17103465359229797
+192,40931516,Big Fish,Vince Staples,hiphop,42109174,DNA.,Kendrick Lamar,hiphop,0.23335875296978004
+193,53750167,Kashmir,Led Zeppelin,rock,47022376,Whole Lotta Love,Led Zeppelin,rock,0.07333922540039783
+194,30495888,What's The Difference,Dr. Dre,hiphop,30183094,Forgot About Dre,Dr. Dre,hiphop,0.1202982154986334
+195,40868605,Still Falling For You,Ellie Goulding,pop,32731648,Send My Love (To Your New Lover),Adele,pop,0.3106160786637233
+196,46871870,Breaking the Law,Judas Priest,rock,47716442,Crazy Train (Remastered),Ozzy Osbourne,rock,0.18171477407070435
+197,49577451,Crazy Train,Ozzy Osbourne,rock,38717088,Cowboys From Hell  (LP Version),Pantera,rock,0.13462505852354534
+198,48796826,Voyage to Atlantis,The Isley Brothers,pop,34899695,"For the Love of You, Pts. 1 & 2",The Isley Brothers,pop,0.09847080964721444
+199,41517604,River,Leon Bridges,soul,41517606,Changes,Charles Bradley,rnb,0.27200704238477535
+200,36819219,Freak On a Leash,Korn,rock,38933199,Down With The Sickness,Disturbed,rock,0.12141571429485665
+201,14142243,Sweet Dreams (Are Made Of This),Marilyn Manson,rock,14142453,The Dope Show,Marilyn Manson,rock,0.17469465784571536
+202,46864205,Brick House,The Commodores,pop,33525528,Boogie Wonderland,"Earth, Wind & Fire",pop,0.18390039865190322
+203,14142334,The Beautiful People,Marilyn Manson,rock,29055846,Bulls on Parade (Album Version),Rage Against The Machine,rock,0.1521964403742313
+204,38933199,Down With The Sickness,Disturbed,rock,41433349,I Stand Alone,Godsmack,rock,0.07881245486774635
+205,41620965,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Four Tops,pop,40283755,You Can't Hurry Love,The Supremes,rnb,0.1778132465207859
+206,29060663,Ain't Too Proud To Beg,The Temptations,rnb,46952510,It's A Shame,Spinners,soul,0.15722075344998054
+207,51450473,Hells Bells,AC/DC,rock,53469098,Highway To Hell,AC/DC,rock,0.06726435274010578
+208,31945938,Inner City Blues (Make Me Wanna Holler),Marvin Gaye,rnb,35033759,We The People Who Are Darker Than Blue,Curtis Mayfield,soul,0.19662972151314317
+209,46858435,I'd Rather Go Blind,Etta James,pop,29077450,All I Could Do Was Cry,Etta James,pop,0.17021817283150942
+210,54600844,Papa Was A Rollin' Stone,The Temptations,rnb,27622495,"It's A Man's, Man's, Man's World",James Brown,rnb,0.17578961902390355
+211,53758246,Get Up (I Feel Like Being A) Sex Machine,James Brown,rnb,34904258,Thank You (Falettinme Be Mice Elf Agin) (single master),Sly & The Family Stone,pop,0.20149469641978124
+212,11175437,That Girl,Stevie Wonder,rnb,46869618,Never Too Much,Luther Vandross,pop,0.1995168755444061
+213,31117435,Rock You Like a Hurricane,Scorpions,rock,46924245,The Trooper (1998 Remastered Version),Iron Maiden,rock,0.13923837913006443
+214,47006875,Midnight Train to Georgia,Gladys Knight & The Pips,pop,40309960,Just My Imagination (Running Away With Me),The Temptations,rnb,0.17103465359229797
+215,37972833,The Best (Edit),Tina Turner,pop,41624223,We Don't Need Another Hero (Thunderdome),Tina Turner,pop,0.27160832297004556
+216,47138543,The Payback,James Brown,rnb,46865664,If You Want Me To Stay,Sly & The Family Stone,pop,0.21562613269644015
+217,47073227,Proud Mary,Creedence Clearwater Revival,rock,47049328,Mercedes Benz (Album Version),Janis Joplin,pop,0.2416126057920387
+218,34822939,Aerials (Album Version),System Of A Down,pop,34822937,Toxicity (Album Version),System Of A Down,pop,0.03114196502406985
+219,48896668,Time (2011 Remastered Version),Pink Floyd,pop,48896670,Money (2011 Remastered Version),Pink Floyd,pop,0.13484143561203998
+220,47819288,If Only for One Night,Luther Vandross,pop,51502939,Forever Mine,The O'Jays,pop,0.11616924952429986
+221,29094810,Stubborn Love,The Lumineers,pop,41664051,Ho Hey,The Lumineers,pop,0.25290973995286736
+222,34899737,"Footsteps in the Dark, Pts. 1 & 2",The Isley Brothers,pop,34899695,"For the Love of You, Pts. 1 & 2",The Isley Brothers,pop,0.075926812133145
+223,55810923,Little Wing,Jimi Hendrix,rock,47815251,Hey Joe,Jimi Hendrix,rock,0.1776609749121827
+224,31120481,Dreamer,Ozzy Osbourne,rock,29086176,Run to the Hills (1998 Remastered Version),Iron Maiden,rock,0.16201533732620166
+225,47927783,If You Think You're Lonely Now,Bobby Womack,rnb,50234144,That's The Way I Feel About 'Cha,Bobby Womack,rnb,0.09906624393040764
+226,46924245,The Trooper (1998 Remastered Version),Iron Maiden,rock,49648703,Painkiller,Judas Priest,rock,0.08428434545811136
+227,46860601,Easy,The Commodores,pop,31500144,"Never, Never Gonna Give Ya Up",Barry White,pop,0.2877251282337844
+228,52668750,Iron Man,Black Sabbath,rock,47716442,Crazy Train (Remastered),Ozzy Osbourne,rock,0.16935838609639664
+229,41584112,School's Out,Alice Cooper,rock,38717090,No More Mr. Nice Guy (Album Version),Alice Cooper,rock,0.22522012996178364
+230,47021901,Holy Diver,Dio,rock,49398540,Don't Talk To Strangers,Dio,rock,0.09026422574803383
+231,47963579,Proud Mary,Tina Turner,pop,47016448,Respect,Aretha Franklin,soul,0.26151471775510826
+232,47408883,I Love The Dough (feat. Jay-Z & Angela Winbush) [2014 Remastered Version],The Notorious B.I.G.,hiphop,47408646,Warning,The Notorious B.I.G.,hiphop,0.12037083393080239
+233,31117080,Send Me An Angel,Scorpions,rock,46858253,Wind Of Change,Scorpions,rock,0.16318421332005428
+234,48284312,Contagious,The Isley Brothers,pop,48360991,Practice What You Preach,Barry White,pop,0.13625150247697249
+235,46882267,(You Make Me Feel Like) A Natural Woman,Aretha Franklin,soul,46868760,I Say a Little Prayer,Aretha Franklin,soul,0.17863148040214083
+236,53781097,My Girl,The Temptations,rnb,46868500,When A Man Loves A Woman,Percy Sledge,pop,0.14949578134541408
+237,32312365,Hail to the King,Avenged Sevenfold,rock,38933222,Stricken,Disturbed,rock,0.12980463333200098
+238,53267792,"You're The First, The Last, My Everything",Barry White,pop,31500122,"Can't Get Enough Of Your Love, Babe",Barry White,pop,0.33326366649749894
+239,37605554,Nightmare,Avenged Sevenfold,rock,37605560,So Far Away,Avenged Sevenfold,rock,0.1093292596212907
+240,51866584,How Can You Mend a Broken Heart,Al Green,rnb,27622495,"It's A Man's, Man's, Man's World",James Brown,rnb,0.21270263354039687
+241,50718760,Time,Hans Zimmer,score,34922750,Cornfield Chase,Hans Zimmer,score,0.1496928124336554
+242,47025638,Cruisin',Smokey Robinson,rnb,34899695,"For the Love of You, Pts. 1 & 2",The Isley Brothers,pop,0.10945451077934254
+243,47059332,The Unforgiven,Metallica,rock,47059335,Nothing Else Matters,Metallica,rock,0.08667976488626217
+244,32063063,Walk (LP Version),Pantera,rock,40499515,This Love  (LP Version),Pantera,rock,0.08362090509300546
+245,34822971,Lonely Day,System Of A Down,pop,47059337,One,Metallica,rock,0.1874120219233263
+246,40953202,I'll Be There,The Jackson 5,pop,46880607,ABC,The Jackson 5,pop,0.27647184379555023
+247,38817695,Still Loving You,Scorpions,rock,31117435,Rock You Like a Hurricane,Scorpions,rock,0.17674701121441705
+248,14142346,Tainted Love,Marilyn Manson,rock,14142334,The Beautiful People,Marilyn Manson,rock,0.24162851837602572
+249,31314047,Kickstart My Heart,Mötley Crüe,rock,31314064,Dr. Feelgood,Mötley Crüe,rock,0.11554178541819937
+250,46865152,Blowin' In the Wind,Bob Dylan,pop,47815251,Hey Joe,Jimi Hendrix,rock,0.23823146128551687
+251,29055239,Check Yo Self,Ice Cube,hiphop,30183113,The Next Episode,Dr. Dre,hiphop,0.16586928315691418
+252,41620992,Who's Lovin' You,The Jackson 5,pop,29060663,Ain't Too Proud To Beg,The Temptations,rnb,0.2870889143002845
+253,46967312,Rock And Roll All Nite,Kiss,rock,38363393,Since You Been Gone,Rainbow,rock,0.17935050221429572
+254,46865154,Hurricane,Bob Dylan,pop,46865146,Like a Rolling Stone,Bob Dylan,pop,0.22180293361344505
+255,41129881,These Arms Of Mine,Otis Redding,soul,49147933,The Dark End Of The Street (LP Version),Percy Sledge,pop,0.17532007898831115
+256,29099766,Wrong Side of Heaven,Five Finger Death Punch,metal,38933199,Down With The Sickness,Disturbed,rock,0.1307814378555724
+257,46860779,I've Got A Woman,Ray Charles,pop,34470927,"What'd I Say, Pt. I & II",Ray Charles,pop,0.13228262660524392
+258,40829352,BagBak,Vince Staples,hiphop,40931516,Big Fish,Vince Staples,hiphop,0.2945410092432358
+259,41206324,You Can't Hurry Love,The Supremes,rnb,32517877,Where Did Our Love Go,The Supremes,rnb,0.18788882382577576
+260,47868335,White Room,Cream,rock,46953871,Strange Brew,Cream,rock,0.13998763591552155
+261,47976045,Through Glass,Stone Sour,rock,33964630,Scars,Papa Roach,rock,0.11058408574990752
+262,46873555,Epic,Faith No More,rock,38717088,Cowboys From Hell  (LP Version),Pantera,rock,0.17877470723465594
+263,46868626,This Christmas,Donny Hathaway,soul,9389206,"Wish You a Merry Christmas (feat. Ray I, Inner Circle)",Jacob Miller,reggae,0.30494387948063106
+264,42723663,Georgia On My Mind,Ray Charles,pop,34470927,"What'd I Say, Pt. I & II",Ray Charles,pop,0.17214576865238684
+265,47027878,Green & Gold,Lianne La Havas,alternative,47385129,What You Don't Do,Lianne La Havas,alternative,0.38277085507403996
+266,41620966,"Reach Out, I'll Be There",Four Tops,pop,41620962,What Becomes Of The Brokenhearted,Jimmy Ruffin,rnb,0.2095678979873875
+267,55407422,Go Your Own Way,Fleetwood Mac,pop,55407419,Dreams,Fleetwood Mac,pop,0.10550999286203411
+268,29032157,Grief,Earl Sweatshirt,hiphop,29032162,Faucet,Earl Sweatshirt,hiphop,0.29421267203725965
+269,38717088,Cowboys From Hell  (LP Version),Pantera,rock,29109098,Hangar 18,Megadeth,metal,0.11656524815545355
+270,29032152,Chum,Earl Sweatshirt,hiphop,30422870,Hive,Earl Sweatshirt,hiphop,0.20403998023740455
+271,47716442,Crazy Train (Remastered),Ozzy Osbourne,rock,52668750,Iron Man,Black Sabbath,rock,0.16935838609639664
+272,54449346,The Thrill Is Gone,B.B. King,blues,47081241,How Blue Can You Get?,B.B. King,blues,0.1193756671681967
+273,53462512,Fall In Line,Christina Aguilera,pop,54023317,Like I Do,Christina Aguilera,pop,0.20499048881837467
+274,55468200,Purple Pills,D12,hiphop,55468201,My Band,D12,hiphop,0.23299968718137398
+275,27622495,"It's A Man's, Man's, Man's World",James Brown,rnb,34470927,"What'd I Say, Pt. I & II",Ray Charles,pop,0.17536356348808946
+276,41332256,Simply Beautiful,Al Green,rnb,48796826,Voyage to Atlantis,The Isley Brothers,pop,0.14947878025805317
+277,47551170,Use Me,Bill Withers,pop,54600844,Papa Was A Rollin' Stone,The Temptations,rnb,0.20000823877680507
+278,47882896,Across 110th Street,Bobby Womack,rnb,47882908,Woman's Gotta Have It,Bobby Womack,rnb,0.23764139312934685
+279,53001376,Accelerate,Christina Aguilera,pop,54023317,Like I Do,Christina Aguilera,pop,0.1970221835283863
+280,37605560,So Far Away,Avenged Sevenfold,rock,37605554,Nightmare,Avenged Sevenfold,rock,0.1093292596212907
+281,30058386,"My Heart Will Go On (Love Theme from ""Titanic"")",James Horner,score,46858253,Wind Of Change,Scorpions,rock,0.3681714891283253
+282,47340313,Love's Holiday,"Earth, Wind & Fire",pop,34899695,"For the Love of You, Pts. 1 & 2",The Isley Brothers,pop,0.0908702628366157
+283,47226356,A Song For You (LP Version),Donny Hathaway,soul,47014843,Baltimore (Album Version),Nina Simone,jazz,0.25594550483668066
+284,33916958,Zoom,The Commodores,pop,51502939,Forever Mine,The O'Jays,pop,0.09721296484150532
+285,46865163,Knockin' On Heaven's Door (Remastered),Bob Dylan,pop,47022376,Whole Lotta Love,Led Zeppelin,rock,0.23505878073979314
+286,34566923,People Are Strange,The Doors,rock,48896670,Money (2011 Remastered Version),Pink Floyd,pop,0.1984389079068003
+287,32696727,Dragula,Rob Zombie,rock,46984368,Superbeast,Rob Zombie,rock,0.13662882063789916
+288,49717300,Opps,Vince Staples,hiphop,50792386,Get The Fuck Off My Dick,Vince Staples,hiphop,0.2264087656957643
+289,51502939,Forever Mine,The O'Jays,pop,33916958,Zoom,The Commodores,pop,0.09721296484150532
+290,40380298,Child In Time (1995 Remastered Version),Deep Purple,rock,47021901,Holy Diver,Dio,rock,0.1715867269701573
+291,34833201,Whiskey In The Jar,Metallica,rock,47059341,Enter Sandman,Metallica,rock,0.10739926779264253
+292,40783759,I'm Still In Love With You,Al Green,rnb,51502939,Forever Mine,The O'Jays,pop,0.10995559166456492
+293,31500658,"You're The First, The Last, My Everything",Barry White,pop,47368260,I Love Music,The O'Jays,pop,0.2388561844844379
+294,46884277,Fantasy,"Earth, Wind & Fire",pop,33525528,Boogie Wonderland,"Earth, Wind & Fire",pop,0.18133864310757175
+295,46946753,Never Can Say Goodbye,The Jackson 5,pop,47025638,Cruisin',Smokey Robinson,rnb,0.2563858775256864
+296,29055338,You Know How We Do It (Digitally Remastered 03),Ice Cube,hiphop,29055398,No Vaseline,Ice Cube,hiphop,0.13409273893509244
+297,33964630,Scars,Papa Roach,rock,47976045,Through Glass,Stone Sour,rock,0.11058408574990752
+298,30422870,Hive,Earl Sweatshirt,hiphop,29032152,Chum,Earl Sweatshirt,hiphop,0.20403998023740455
+299,54455374,Perfect Strangers,Deep Purple,rock,47021608,I Surrender,Rainbow,rock,0.18121753596785328
+300,31304161,Whisky in the jar,Thin Lizzy,rock,38363393,Since You Been Gone,Rainbow,rock,0.15518127673551219
+301,54451514,I Put A Spell On You,Nina Simone,jazz,29232303,Strange Fruit,Billie Holiday,jazz,0.19946304578684138
+302,38363393,Since You Been Gone,Rainbow,rock,47027331,Jailbreak,Thin Lizzy,rock,0.15426084822002883
+303,41620988,Soul Man,Sam & Dave,soul,41621012,Sweet Soul Music,Arthur Conley,soul,0.16713491575912076
+304,46960107,Heavy (feat. Kiiara),Linkin Park,alternative,42847642,One More Light,Linkin Park,alternative,0.0918114747307116
+305,40366600,Falling Away from Me,Korn,rock,7866618,Happy?,Mudvayne,pop,0.14287905662513667
+306,38933222,Stricken,Disturbed,rock,7866618,Happy?,Mudvayne,pop,0.1132491534115343
+307,37605557,Afterlife,Avenged Sevenfold,rock,37605561,Welcome to the Family,Avenged Sevenfold,rock,0.05397760177595301
+308,40659803,Bring It On Home To Me,Sam Cooke,pop,47199611,Tracks Of My Tears,Smokey Robinson,rnb,0.262357329172608
+309,48159631,Change The World,Eric Clapton,rock,49622249,Tears In Heaven,Eric Clapton,rock,0.2827084252464618
+310,41498315,Sleep On The Floor,The Lumineers,pop,46980598,All The Pretty Girls,Kaleo,alternative,0.25606733299424156
+311,8708737,Mother,Danzig,rock,8708658,Twist Of Cain,Danzig,rock,0.16153021329794215
+312,40283755,You Can't Hurry Love,The Supremes,rnb,41620965,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Four Tops,pop,0.1778132465207859
+313,52371912,Beyond,Leon Bridges,soul,51143034,Bad Bad News,Leon Bridges,soul,0.23768146981055915
+314,47059337,One,Metallica,rock,47059335,Nothing Else Matters,Metallica,rock,0.10722179010220423
+315,31304017,Dancing In The Moonlight (It's Caught Me In It's Spotlight),Thin Lizzy,rock,38363393,Since You Been Gone,Rainbow,rock,0.28001847300130045
+316,46858924,Easy,Faith No More,rock,54455374,Perfect Strangers,Deep Purple,rock,0.3314321205650417
+317,50792386,Get The Fuck Off My Dick,Vince Staples,hiphop,49717300,Opps,Vince Staples,hiphop,0.2264087656957643
+318,42688366,(What A) Wonderful World,Sam Cooke,pop,42811590,You Send Me,Sam Cooke,pop,0.16213505720602417
+319,31314064,Dr. Feelgood,Mötley Crüe,rock,31313933,Shout At The Devil,Mötley Crüe,rock,0.09781289163622486
+320,50854352,Stairway to Heaven,The O'Jays,pop,51502938,Cry Together,The O'Jays,pop,0.06541797529050775
+321,46865663,Family Affair (Single Version),Sly & The Family Stone,pop,47006875,Midnight Train to Georgia,Gladys Knight & The Pips,pop,0.26718608730450977
+322,31319970,Coming Undone,Korn,rock,34822928,Chop Suey! (Album Version),System Of A Down,pop,0.12413223882346935
+323,55040797,Panama (Album Version),Van Halen,rock,50523973,Hot For Teacher (2015 Remastered Version),Van Halen,rock,0.12970271044237214
+324,50523977,Jump (2015 Remastered Version),Van Halen,rock,34104935,Smoke On the Water (2012 - Remaster),Deep Purple,rock,0.1776211523704777
+325,34704198,Hit the road Jack,Ray Charles,pop,34470927,"What'd I Say, Pt. I & II",Ray Charles,pop,0.23757879975490748
+326,31948634,Trouble Man,Marvin Gaye,rnb,40783759,I'm Still In Love With You,Al Green,rnb,0.1590186056601416
+327,49887819,I Never Loved a Man (The Way I Love You),Aretha Franklin,soul,34202206,River Deep - Mountain High (Remastered Version 1991),Ike & Tina Turner,pop,0.21803988971287203
+328,29055877,Guerrilla Radio (Album Version),Rage Against The Machine,rock,43797477,Bombtrack (Remastered),Rage Against The Machine,rock,0.1495425269526287
+329,55040794,Runnin' With The Devil (Album Version),Van Halen,rock,55040797,Panama (Album Version),Van Halen,rock,0.20868476901492672
+330,40498025,Could It Be I'm Falling In Love (LP Version),Spinners,soul,47025638,Cruisin',Smokey Robinson,rnb,0.15346034944836007
+331,37605561,Welcome to the Family,Avenged Sevenfold,rock,37605557,Afterlife,Avenged Sevenfold,rock,0.05397760177595301
+332,48200573,Raining Blood,Slayer,metal,34604448,South of Heaven,Slayer,metal,0.13743390657704047
+333,46877892,Living After Midnight,Judas Priest,rock,46928176,Hallowed Be Thy Name (1998 Remastered Version),Iron Maiden,rock,0.18754090326827733
+334,31906608,The Hanging Tree,James Newton Howard,score,37172376,Main Titles - Fantastic Beasts and Where to Find Them Theme,James Newton Howard,score,0.30806965601254543
+335,41624223,We Don't Need Another Hero (Thunderdome),Tina Turner,pop,46868553,What's Love Got to Do with It,Tina Turner,pop,0.24583852184943378
+336,46928176,Hallowed Be Thy Name (1998 Remastered Version),Iron Maiden,rock,46877892,Living After Midnight,Judas Priest,rock,0.18754090326827733
+337,38625080,The End ( LP Version ),The Doors,rock,34566923,People Are Strange,The Doors,rock,0.20264857325824348
+338,30422869,Sunday,Earl Sweatshirt,hiphop,29032152,Chum,Earl Sweatshirt,hiphop,0.3528993863544845
+339,55468201,My Band,D12,hiphop,30183094,Forgot About Dre,Dr. Dre,hiphop,0.17991255425149688
+340,29099823,House of The Rising Sun,Five Finger Death Punch,metal,44488815,Wash It All Away,Five Finger Death Punch,metal,0.09274520150689103
+341,47005189,Nightshift,The Commodores,pop,41662759,Sexual Healing,Marvin Gaye,rnb,0.2766007423864333
+342,51502938,Cry Together,The O'Jays,pop,50854352,Stairway to Heaven,The O'Jays,pop,0.06541797529050775
+343,46865664,If You Want Me To Stay,Sly & The Family Stone,pop,40783755,Love And Happiness,Al Green,rnb,0.17704463714504082
+344,31315049,Home Sweet Home,Mötley Crüe,rock,31313933,Shout At The Devil,Mötley Crüe,rock,0.1601186570300882
+345,47105502,I'll Be Around (Remastered Version),Spinners,soul,47025638,Cruisin',Smokey Robinson,rnb,0.12761068485963256
+346,47020605,Rainbow In The Dark,Dio,rock,49398540,Don't Talk To Strangers,Dio,rock,0.1749962515899297
+347,55587573,SoulMate,Justin Timberlake,pop,54023317,Like I Do,Christina Aguilera,pop,0.2172509751570214
+348,33561199,My Curse,Killswitch Engage,metal,33561232,The End of Heartache,Killswitch Engage,metal,0.08797508496725037
+349,12572609,Back Stabbers,The O'Jays,pop,40783755,Love And Happiness,Al Green,rnb,0.16454048494635043
+350,41620989,"Hold On, I'm Coming",Sam & Dave,soul,46864635,(Sittin' On) The Dock Of The Bay (LP Version),Otis Redding,soul,0.24123090855857177
+351,42753723,Nemo,Nightwish,metal,49055817,Over The Hills And Far Away,Nightwish,metal,0.09597506608801276
+352,42847642,One More Light,Linkin Park,alternative,46960107,Heavy (feat. Kiiara),Linkin Park,alternative,0.0918114747307116
+353,43797477,Bombtrack (Remastered),Rage Against The Machine,rock,29055877,Guerrilla Radio (Album Version),Rage Against The Machine,rock,0.1495425269526287
+354,38169509,"Girls, Girls, Girls",Mötley Crüe,rock,31314064,Dr. Feelgood,Mötley Crüe,rock,0.13295488249469478
+355,49648703,Painkiller,Judas Priest,rock,46924245,The Trooper (1998 Remastered Version),Iron Maiden,rock,0.08428434545811136
+356,29232303,Strange Fruit,Billie Holiday,jazz,54451514,I Put A Spell On You,Nina Simone,jazz,0.19946304578684138
+357,47449901,The Makings Of You,Curtis Mayfield,soul,49300297,Give Me Your Love (Love Song),Curtis Mayfield,soul,0.18936629237499059
+358,47052897,Lean on Me,Bill Withers,pop,29074968,Lean on Me,Bill Withers,pop,0.2113159742722196
+359,46980598,All The Pretty Girls,Kaleo,alternative,41498315,Sleep On The Floor,The Lumineers,pop,0.25606733299424156
+360,55779402,House Of The Rising Sun,The Animals,pop,47023496,Fortunate Son,Creedence Clearwater Revival,rock,0.21688614403780682
+361,57321461,Iron Man (Remastered Version),Black Sabbath,rock,57321462,Paranoid (Remastered Version),Black Sabbath,rock,0.04649357836304613
+362,49668056,Love Me Like You Do,Ellie Goulding,pop,48660331,All The Stars,Kendrick Lamar,hiphop,0.3226844111687164
+363,53774452,Mannish Boy,Muddy Waters,blues,46858115,Smokestack Lightnin',Howlin' Wolf,blues,0.0793244159618064
+364,46877798,Is This Love,Whitesnake,rock,47080200,Catch The Rainbow,Rainbow,rock,0.2444023819868376
+365,46952619,Night Nurse,Gregory Isaacs,reggae,46952629,Handsworth Revolution,Steel Pulse,reggae,0.13555129717197034
+366,49055817,Over The Hills And Far Away,Nightwish,metal,42753723,Nemo,Nightwish,metal,0.09597506608801276
+367,47268475,The Vengeful One,Disturbed,rock,44488812,Jekyll And Hyde,Five Finger Death Punch,metal,0.15615873212305798
+368,46952509,Neither One Of Us (Wants To Be The First To Say Goodbye),Gladys Knight & The Pips,pop,47199611,Tracks Of My Tears,Smokey Robinson,rnb,0.1756895096301333
+369,57321462,Paranoid (Remastered Version),Black Sabbath,rock,57321461,Iron Man (Remastered Version),Black Sabbath,rock,0.04649357836304613
+370,47005566,If I Were Your Woman,Gladys Knight & The Pips,pop,46952509,Neither One Of Us (Wants To Be The First To Say Goodbye),Gladys Knight & The Pips,pop,0.17941869497942342
+371,32517877,Where Did Our Love Go,The Supremes,rnb,29060663,Ain't Too Proud To Beg,The Temptations,rnb,0.16850636629586346
+372,41654569,Got The Life,Korn,rock,31319970,Coming Undone,Korn,rock,0.17225251188539792
+373,47023284,Everyday People,Sly & The Family Stone,pop,47017242,Dance to the Music,Sly & The Family Stone,pop,0.1852569251919961
+374,55468202,Fight Music,D12,hiphop,30542058,'Till I Collapse,Eminem,hiphop,0.15087957527863483
+375,40500262,Cemetary Gates (LP Version),Pantera,rock,40499515,This Love  (LP Version),Pantera,rock,0.08316934779591267
+376,47017242,Dance to the Music,Sly & The Family Stone,pop,47023284,Everyday People,Sly & The Family Stone,pop,0.1852569251919961
+377,48360991,Practice What You Preach,Barry White,pop,34899695,"For the Love of You, Pts. 1 & 2",The Isley Brothers,pop,0.11293655702768257
+378,47049328,Mercedes Benz (Album Version),Janis Joplin,pop,47073227,Proud Mary,Creedence Clearwater Revival,rock,0.2416126057920387
+379,47021261,A Sunday Kind Of Love,Etta James,pop,46884521,I'll Be Seeing You,Billie Holiday,jazz,0.1732725532427285
+380,14142453,The Dope Show,Marilyn Manson,rock,14142243,Sweet Dreams (Are Made Of This),Marilyn Manson,rock,0.17469465784571536
+381,42811590,You Send Me,Sam Cooke,pop,42688366,(What A) Wonderful World,Sam Cooke,pop,0.16213505720602417
+382,46858115,Smokestack Lightnin',Howlin' Wolf,blues,53774452,Mannish Boy,Muddy Waters,blues,0.0793244159618064
+383,46952510,It's A Shame,Spinners,soul,29060663,Ain't Too Proud To Beg,The Temptations,rnb,0.15722075344998054
+384,34470927,"What'd I Say, Pt. I & II",Ray Charles,pop,46860779,I've Got A Woman,Ray Charles,pop,0.13228262660524392
+385,47207249,Here I Go Again,Whitesnake,rock,49577451,Crazy Train,Ozzy Osbourne,rock,0.23275333838769563
+386,37953894,Narcissistic Cannibal (feat. Skrillex & Kill The Noise),Korn,rock,23800688,Absolute Zero,Stone Sour,rock,0.186048446294779
+387,47307131,A Rose Is Still a Rose,Aretha Franklin,soul,46882267,(You Make Me Feel Like) A Natural Woman,Aretha Franklin,soul,0.2790661302911345
+388,47027331,Jailbreak,Thin Lizzy,rock,38363393,Since You Been Gone,Rainbow,rock,0.15426084822002883
+389,41206319,I Got You (I Feel Good),James Brown,rnb,25617603,Baby I Need Your Loving,Four Tops,pop,0.24290033005184986
+390,46872086,Burnin' For You,Blue Öyster Cult,rock,37952946,(Don't Fear) The Reaper,Blue Öyster Cult,rock,0.3053895482663145
+391,44488812,Jekyll And Hyde,Five Finger Death Punch,metal,47268475,The Vengeful One,Disturbed,rock,0.15615873212305798
+392,45643315,Wish I Had An Angel,Nightwish,metal,45643985,Amaranth (Album Version),Nightwish,metal,0.09354051083869963
+393,48412867,Pour Some Sugar On Me,Def Leppard,rock,48189040,Still of the Night (2017 Remastered Version),Whitesnake,rock,0.17255831819264023
+394,54023317,Like I Do,Christina Aguilera,pop,53001376,Accelerate,Christina Aguilera,pop,0.1970221835283863
+395,54451511,Don't Let Me Be Misunderstood,Nina Simone,jazz,53380677,Four Women,Nina Simone,jazz,0.13879968900971695
+396,47022354,Symphony Of Destruction,Megadeth,metal,46887239,Holy Wars...The Punishment Due,Megadeth,metal,0.09056149494176013
+397,46887414,Gimme Three Steps,Lynyrd Skynyrd,rock,47449680,Tuesday's Gone,Lynyrd Skynyrd,rock,0.21104372069172572
+398,31500144,"Never, Never Gonna Give Ya Up",Barry White,pop,48360991,Practice What You Preach,Barry White,pop,0.2520547599245544
+399,46887239,Holy Wars...The Punishment Due,Megadeth,metal,47022354,Symphony Of Destruction,Megadeth,metal,0.09056149494176013
+400,49300297,Give Me Your Love (Love Song),Curtis Mayfield,soul,33916958,Zoom,The Commodores,pop,0.18310387066031109
+401,47449680,Tuesday's Gone,Lynyrd Skynyrd,rock,47020129,Simple Man,Lynyrd Skynyrd,rock,0.14005998058248526
+402,47021608,I Surrender,Rainbow,rock,54455374,Perfect Strangers,Deep Purple,rock,0.18121753596785328
+403,44488815,Wash It All Away,Five Finger Death Punch,metal,29099823,House of The Rising Sun,Five Finger Death Punch,metal,0.09274520150689103
+404,48132679,Angel of Death,Slayer,metal,34604448,South of Heaven,Slayer,metal,0.09483733712783604
+405,46860609,Being With You,Smokey Robinson,rnb,40309960,Just My Imagination (Running Away With Me),The Temptations,rnb,0.2873328730424478
+406,34904258,Thank You (Falettinme Be Mice Elf Agin) (single master),Sly & The Family Stone,pop,53758246,Get Up (I Feel Like Being A) Sex Machine,James Brown,rnb,0.20149469641978124
+407,47368260,I Love Music,The O'Jays,pop,46865664,If You Want Me To Stay,Sly & The Family Stone,pop,0.18434102900773686
+408,33916794,Machine Gun,The Commodores,pop,34904258,Thank You (Falettinme Be Mice Elf Agin) (single master),Sly & The Family Stone,pop,0.23517485876839883
+409,41662540,Unstoppable,Lianne La Havas,alternative,47437165,The Healing,Gary Clark Jr.,rock,0.3054238443570215
+410,50523973,Hot For Teacher (2015 Remastered Version),Van Halen,rock,55040797,Panama (Album Version),Van Halen,rock,0.12970271044237214
+411,46860097,Voodoo,Godsmack,rock,31319970,Coming Undone,Korn,rock,0.15327287834996117
+412,49032307,Bright Lights,Gary Clark Jr.,rock,38204807,Rumble And Sway,Jamie N Commons,alternative,0.29652156615473657
+413,40518548,Baby Love,The Supremes,rnb,32521048,Stop! In The Name Of Love,The Supremes,rnb,0.14499027432205713
+414,32965778,Crossroads,Cream,rock,47868335,White Room,Cream,rock,0.21314729285004796
+415,53380677,Four Women,Nina Simone,jazz,54451511,Don't Let Me Be Misunderstood,Nina Simone,jazz,0.13879968900971695
+416,41517606,Changes,Charles Bradley,rnb,14104158,Nobody but You,Charles Bradley,rnb,0.1699087030741525
+417,47020611,Someday We'll All Be Free (LP Version),Donny Hathaway,soul,35033759,We The People Who Are Darker Than Blue,Curtis Mayfield,soul,0.19001978173715173
+418,51240699,No More Tears (Album Version),Ozzy Osbourne,rock,49648703,Painkiller,Judas Priest,rock,0.1960578026791152
+419,33561235,Holy Diver,Killswitch Engage,metal,14254880,Oops!...I Did It Again,Children Of Bodom,metal,0.17626135628058748
+420,41433349,I Stand Alone,Godsmack,rock,38933199,Down With The Sickness,Disturbed,rock,0.07881245486774635
+421,46860079,The Harder They Come,Jimmy Cliff,reggae,32870061,You Can Get It If You Really Want,Jimmy Cliff,reggae,0.20479492335267846
+422,29074968,Lean on Me,Bill Withers,pop,47052897,Lean on Me,Bill Withers,pop,0.2113159742722196
+423,23800609,Bother,Stone Sour,rock,49451828,Tired,Stone Sour,rock,0.18545493555664194
+424,46946967,Boogie On Reggae Woman,Stevie Wonder,rnb,11175437,That Girl,Stevie Wonder,rnb,0.20026179298444702
+425,53697744,Cripn 4 Life,Snoop Dogg,hiphop,54023317,Like I Do,Christina Aguilera,pop,0.2961758214780078
+426,33964631,Getting Away With Murder,Papa Roach,rock,33964565,Between Angels And Insects,Papa Roach,rock,0.11381115198148928
+427,41445528,I'll Be Around (LP Version),Spinners,soul,50854352,Stairway to Heaven,The O'Jays,pop,0.1780784245687641
+428,29099693,Love Gun,Kiss,rock,46877892,Living After Midnight,Judas Priest,rock,0.2368464825133334
+429,34922750,Cornfield Chase,Hans Zimmer,score,34922607,Day One,Hans Zimmer,score,0.06586538889283589
+430,29077450,All I Could Do Was Cry,Etta James,pop,46858435,I'd Rather Go Blind,Etta James,pop,0.17021817283150942
+431,29099039,Detroit Rock City,Kiss,rock,9076219,Stargazer,Rainbow,rock,0.25252035509946136
+432,46984369,Living Dead Girl,Rob Zombie,rock,41433349,I Stand Alone,Godsmack,rock,0.18121874212947542
+433,47719708,In The Midnight Hour (Remastered Single Version),Wilson Pickett,soul,41620966,"Reach Out, I'll Be There",Four Tops,pop,0.22394721063490153
+434,46858800,Land Of 1000 Dances,Wilson Pickett,soul,55221138,I Got You (I Feel Good),James Brown,rnb,0.25415450268857187
+435,56248610,Threnody,Goldmund,electro,17101766,In A Notebook,Goldmund,electro,0.22366826680177954
+436,31313933,Shout At The Devil,Mötley Crüe,rock,31314064,Dr. Feelgood,Mötley Crüe,rock,0.09781289163622486
+437,51143034,Bad Bad News,Leon Bridges,soul,52812288,Shy,Leon Bridges,soul,0.1854396069885903
+438,32703869,Please Forgive My Heart,Bobby Womack,rnb,28756663,I Still Got It,Lee Fields,rnb,0.4183931557596311
+439,47014843,Baltimore (Album Version),Nina Simone,jazz,54451511,Don't Let Me Be Misunderstood,Nina Simone,jazz,0.21004173750376975
+440,47734439,Photograph,Def Leppard,rock,47734440,Rock Of Ages,Def Leppard,rock,0.14115456703777907
+441,47882908,Woman's Gotta Have It,Bobby Womack,rnb,51502938,Cry Together,The O'Jays,pop,0.14038407411949239
+442,47690579,Looking Too Closely,Fink,alternative,46861847,Way Down We Go,Kaleo,alternative,0.40434336523149395
+443,47106044,That's How Strong My Love Is (LP Version),Otis Redding,soul,46858674,Try A Little Tenderness (LP Version),Otis Redding,soul,0.2503200428713718
+444,41620962,What Becomes Of The Brokenhearted,Jimmy Ruffin,rnb,32517877,Where Did Our Love Go,The Supremes,rnb,0.20473823895834742
+445,46873535,Don't Let Me Be Misunderstood,The Animals,pop,47868335,White Room,Cream,rock,0.20495010017085435
+446,31906613,The Hanging Tree,James Newton Howard,score,31906608,The Hanging Tree,James Newton Howard,score,0.31261341583396995
+447,47043709,I Feel Free,Cream,rock,47868335,White Room,Cream,rock,0.14581171170340346
+448,46873342,Roots Bloody Roots,Sepultura,rock,34912682,Arise (Reissue),Sepultura,rock,0.20629849523844956
+449,33535429,Man In The Long Black Coat (Album Version),Bob Dylan,pop,47081381,My Home Is In The Delta,Muddy Waters,blues,0.26223574800149585
+450,32521048,Stop! In The Name Of Love,The Supremes,rnb,40518548,Baby Love,The Supremes,rnb,0.14499027432205713
+451,50234144,That's The Way I Feel About 'Cha,Bobby Womack,rnb,47927783,If You Think You're Lonely Now,Bobby Womack,rnb,0.09906624393040764
+452,47354453,No Good,Kaleo,alternative,38931364,I Can't Go On Without You,Kaleo,alternative,0.14820827009970572
+453,46953871,Strange Brew,Cream,rock,47868335,White Room,Cream,rock,0.13998763591552155
+454,34140363,God Is Dead?,Black Sabbath,rock,32312365,Hail to the King,Avenged Sevenfold,rock,0.290991664295725
+455,32315051,Here I Go Again (USA Remix),Whitesnake,rock,38363393,Since You Been Gone,Rainbow,rock,0.1806249105567559
+456,46872554,No One Like You,Scorpions,rock,47716442,Crazy Train (Remastered),Ozzy Osbourne,rock,0.18848336664684695
+457,32329343,Laid to Rest,Lamb of God,rock,32329331,Hourglass (Album Version),Lamb of God,rock,0.06831186446104465
+458,43797478,Take The Power Back (Remastered),Rage Against The Machine,rock,43797477,Bombtrack (Remastered),Rage Against The Machine,rock,0.2951580832817672
+459,47437165,The Healing,Gary Clark Jr.,rock,41662540,Unstoppable,Lianne La Havas,alternative,0.3054238443570215
+460,47043911,I Feel Good,Beres Hammond,reggae,33317554,Tempted to Touch,Beres Hammond,reggae,0.03140140686966442
+461,32329287,Redneck,Lamb of God,rock,32329343,Laid to Rest,Lamb of God,rock,0.0770569149535999
+462,29109098,Hangar 18,Megadeth,metal,46887236,Peace Sells,Megadeth,metal,0.08192659789648071
+463,47238572,Break On Through (To The Other Side) [Remastered],The Doors,rock,33426159,Sympathy For The Devil,The Rolling Stones,rock,0.21822892674948446
+464,25617603,Baby I Need Your Loving,Four Tops,pop,41206319,I Got You (I Feel Good),James Brown,rnb,0.24290033005184986
+465,47105501,Night Time Is The Right Time,Ray Charles,pop,39547412,Baby Workout,Jackie Wilson,pop,0.2857587004055918
+466,31815368,Cryin' Like A Bitch!!,Godsmack,rock,41433349,I Stand Alone,Godsmack,rock,0.11040506740816969
+467,35033759,We The People Who Are Darker Than Blue,Curtis Mayfield,soul,47449901,The Makings Of You,Curtis Mayfield,soul,0.1900079834275975
+468,42769960,A Tout Le Monde,Megadeth,metal,40500262,Cemetary Gates (LP Version),Pantera,rock,0.11274801880592589
+469,9076219,Stargazer,Rainbow,rock,49398540,Don't Talk To Strangers,Dio,rock,0.2250602795603165
+470,55966720,Proud Mary,Ike & Tina Turner,pop,31500122,"Can't Get Enough Of Your Love, Babe",Barry White,pop,0.34487157335046115
+471,33561232,The End of Heartache,Killswitch Engage,metal,33561199,My Curse,Killswitch Engage,metal,0.08797508496725037
+472,46947571,Midlife Crisis,Faith No More,rock,46873555,Epic,Faith No More,rock,0.1971700310156549
+473,54547475,Pipe,Christina Aguilera,pop,54023317,Like I Do,Christina Aguilera,pop,0.23821560154068067
+474,43050139,The House Of The Rising Sun,The Animals,pop,33427095,(I Can't Get No) Satisfaction,The Rolling Stones,rock,0.24789988265568264
+475,29076487,Stormy Weather,Etta James,pop,47021261,A Sunday Kind Of Love,Etta James,pop,0.18159741134330132
+476,41522803,Cupid,Sam Cooke,pop,34470927,"What'd I Say, Pt. I & II",Ray Charles,pop,0.18954601577115615
+477,47076925,Pull Me Under (LP Version),Dream Theater,rock,40354743,"Metropolis - Part I (""The Miracle And The Sleeper"") (LP Version)",Dream Theater,rock,0.1314345510794418
+478,25616755,Ain't No Woman (Like the One I Got),Four Tops,pop,47025638,Cruisin',Smokey Robinson,rnb,0.13239364233965223
+479,9076759,The Temple Of The King,Rainbow,rock,47080200,Catch The Rainbow,Rainbow,rock,0.07090916662865665
+480,49300301,Little Child Runnin' Wild,Curtis Mayfield,soul,8584179,(If Loving You Is Wrong) I Don't Want To Be Right,David Ruffin,rnb,0.24606439014423365
+481,33317554,Tempted to Touch,Beres Hammond,reggae,47043911,I Feel Good,Beres Hammond,reggae,0.03140140686966442
+482,49573990,Little Wing,Stevie Ray Vaughan,rock,10221826,A Fool No More,Peter Green,rock,0.2613327332860217
+483,34202206,River Deep - Mountain High (Remastered Version 1991),Ike & Tina Turner,pop,49887819,I Never Loved a Man (The Way I Love You),Aretha Franklin,soul,0.21803988971287203
+484,41170133,I'm Eighteen,Alice Cooper,rock,38717090,No More Mr. Nice Guy (Album Version),Alice Cooper,rock,0.1502731928165283
+485,34604448,South of Heaven,Slayer,metal,48132679,Angel of Death,Slayer,metal,0.09483733712783604
+486,34104935,Smoke On the Water (2012 - Remaster),Deep Purple,rock,53469098,Highway To Hell,AC/DC,rock,0.16131916707859806
+487,46870522,Jump In the Line,Harry Belafonte,pop,37002392,Banana Boat (Day-O) (Remastered),Harry Belafonte,pop,0.35358849828987204
+488,47225595,The Rubberband Man,Spinners,soul,47551170,Use Me,Bill Withers,pop,0.2728967196205183
+489,46984368,Superbeast,Rob Zombie,rock,32696593,Feel So Numb,Rob Zombie,rock,0.10806204572785516
+490,47021687,Nutbush City Limits,Ike & Tina Turner,pop,41624223,We Don't Need Another Hero (Thunderdome),Tina Turner,pop,0.2980150492847019
+491,45643985,Amaranth (Album Version),Nightwish,metal,45643315,Wish I Had An Angel,Nightwish,metal,0.09354051083869963
+492,39642779,What Becomes Of The Brokenhearted,Jimmy Ruffin,rnb,53781097,My Girl,The Temptations,rnb,0.24193889207949715
+493,33467459,Now That We've Found Love,Third World,reggae,41004379,Train To Skaville,The Ethiopians,reggae,0.2708656041365628
+494,48518230,Legalize It,Peter Tosh,reggae,53687904,Bush Doctor (2002 Remastered Version),Peter Tosh,reggae,0.21667363075370882
+495,33964565,Between Angels And Insects,Papa Roach,rock,33964631,Getting Away With Murder,Papa Roach,rock,0.11381115198148928
+496,46859951,Spoonful,Howlin' Wolf,blues,32404756,I Can't Be Satisfied,Muddy Waters,blues,0.13609026692944481
+497,9209600,More Human Than Human,White Zombie,rock,46984370,Thunder Kiss '65,White Zombie,rock,0.17604384534688133
+498,32870061,You Can Get It If You Really Want,Jimmy Cliff,reggae,54499191,Three Little Birds,Bob Marley & The Wailers,reggae,0.19250780467987239
+499,23800688,Absolute Zero,Stone Sour,rock,47976045,Through Glass,Stone Sour,rock,0.17924275246538268
+500,49649569,Godzilla,Blue Öyster Cult,rock,47027331,Jailbreak,Thin Lizzy,rock,0.2119080915336795
+501,7866618,Happy?,Mudvayne,pop,7866670,Not Falling,Mudvayne,pop,0.08383242137860436
+502,31073822,Deliver Us,In Flames,rock,31073675,Trigger,In Flames,rock,0.23514282632879935
+503,46984370,Thunder Kiss '65,White Zombie,rock,9209639,Welcome To Planet Motherfucker/ Psychoholic Slag,White Zombie,rock,0.17292098416964008
+504,48341470,They Gonna Talk,Beres Hammond,reggae,33317554,Tempted to Touch,Beres Hammond,reggae,0.13449743540814985
+505,47734438,Love Bites,Def Leppard,rock,47734440,Rock Of Ages,Def Leppard,rock,0.11801978441302752
+506,47199611,Tracks Of My Tears,Smokey Robinson,rnb,33349591,You Really Got A Hold On Me,Smokey Robinson,rnb,0.06798957355755897
+507,41664193,Israelites,Desmond Dekker,reggae,51848019,007 (Shanty Town),Desmond Dekker,reggae,0.19834399277481773
+508,46887236,Peace Sells,Megadeth,metal,29109098,Hangar 18,Megadeth,metal,0.08192659789648071
+509,33349591,You Really Got A Hold On Me,Smokey Robinson,rnb,47199611,Tracks Of My Tears,Smokey Robinson,rnb,0.06798957355755897
+510,47385129,What You Don't Do,Lianne La Havas,alternative,41662540,Unstoppable,Lianne La Havas,alternative,0.37834313606152115
+511,45478801,KILL4ME,Marilyn Manson,rock,47450319,Song #3,Stone Sour,rock,0.3173350421682197
+512,41621012,Sweet Soul Music,Arthur Conley,soul,41620988,Soul Man,Sam & Dave,soul,0.16713491575912076
+513,40164677,Blood and Thunder,Mastodon,metal,38717088,Cowboys From Hell  (LP Version),Pantera,rock,0.20298263725282217
+514,46861449,I Heard It Through The Grapevine,Gladys Knight & The Pips,pop,29060663,Ain't Too Proud To Beg,The Temptations,rnb,0.23165967931345055
+515,32398088,(I'm Your) Hoochie Coochie Man,Muddy Waters,blues,54887524,My Babe,Little Walter,blues,0.1265878245201152
+516,32869858,Many Rivers To Cross,Jimmy Cliff,reggae,39190015,Israelites,Desmond Dekker,reggae,0.29591552637825724
+517,47022719,I Can See Clearly Now,Jimmy Cliff,reggae,46984380,Is This Love,Bob Marley & The Wailers,reggae,0.3630728959518633
+518,32896805,The Only,Static-X,rock,33964631,Getting Away With Murder,Papa Roach,rock,0.14521066310816289
+519,54774049,Child In Time,Deep Purple,rock,47022376,Whole Lotta Love,Led Zeppelin,rock,0.22205433856543755
+520,10087375,(Your Love Keeps Lifting Me) Higher and Higher,Jackie Wilson,pop,43444709,Hold On I'm Coming,Sam & Dave,soul,0.2517941325304234
+521,47734442,Hysteria,Def Leppard,rock,47734438,Love Bites,Def Leppard,rock,0.12029203980658965
+522,49398540,Don't Talk To Strangers,Dio,rock,47021901,Holy Diver,Dio,rock,0.09026422574803383
+523,27116963,Gloomy Sunday (Take 1),Billie Holiday,jazz,37955975,I Get Along Without You Very Well,Billie Holiday,jazz,0.2789202814704025
+524,38931364,I Can't Go On Without You,Kaleo,alternative,47354453,No Good,Kaleo,alternative,0.14820827009970572
+525,29032162,Faucet,Earl Sweatshirt,hiphop,29032157,Grief,Earl Sweatshirt,hiphop,0.29421267203725965
+526,7866532,Dig,Mudvayne,pop,32896878,Push It,Static-X,rock,0.10730644894808805
+527,47022030,Cry Baby,Janis Joplin,pop,47551944,Me and Bobby McGee,Janis Joplin,pop,0.25529674331413577
+528,42373233,The World (Is Going Up In Flames),Charles Bradley,rnb,30291180,Heartaches and Pain,Charles Bradley,rnb,0.17891007014880378
+529,47020702,I Am The Law,Anthrax,rock,49649569,Godzilla,Blue Öyster Cult,rock,0.24794190688682893
+530,40499515,This Love  (LP Version),Pantera,rock,40500262,Cemetary Gates (LP Version),Pantera,rock,0.08316934779591267
+531,51143035,Bet Ain't Worth the Hand,Leon Bridges,soul,51143034,Bad Bad News,Leon Bridges,soul,0.21605381833748083
+532,39335741,Refuse / Resist,Sepultura,rock,34912682,Arise (Reissue),Sepultura,rock,0.17029744009006098
+533,34201677,River Deep - Mountain High,Ike & Tina Turner,pop,40518548,Baby Love,The Supremes,rnb,0.26150184528302256
+534,31514657,Light of the Seven,Ramin Djawadi,score,34922607,Day One,Hans Zimmer,score,0.17084632894538454
+535,31073428,Only the weak,In Flames,rock,31073276,Take This Life,In Flames,rock,0.12414845265495944
+536,46985389,Overkill,Motörhead,rock,49648703,Painkiller,Judas Priest,rock,0.12284820840550081
+537,33629873,First We Take Manhattan (Digitally Remastered),Stevie Ray Vaughan,rock,33535429,Man In The Long Black Coat (Album Version),Bob Dylan,pop,0.27201857482610203
+538,41556388,Help,Papa Roach,rock,47450319,Song #3,Stone Sour,rock,0.08407365860718874
+539,39443755,Concerning Hobbits,Howard Shore,score,34823265,Many Meetings,Howard Shore,score,0.10830244199682681
+540,47022323,Cross Road Blues,Robert Johnson,blues,46858115,Smokestack Lightnin',Howlin' Wolf,blues,0.169373995466237
+541,47668683,Private Dancer (2015 Remastered Version),Tina Turner,pop,41624223,We Don't Need Another Hero (Thunderdome),Tina Turner,pop,0.2646009487376372
+542,41664163,Rock Away,Beres Hammond,reggae,33317505,Can't Stop A Man,Beres Hammond,reggae,0.08560764912675067
+543,47734440,Rock Of Ages,Def Leppard,rock,47734438,Love Bites,Def Leppard,rock,0.11801978441302752
+544,47451121,I Love You More Than You'll Ever Know (LP Version),Donny Hathaway,soul,50234144,That's The Way I Feel About 'Cha,Bobby Womack,rnb,0.1647476619204945
+545,41451290,I Can't Stand The Rain,Ann Peebles,soul,41451293,Do I Need You,Ann Peebles,soul,0.1904389365880187
+546,33627091,Rammstein,Rammstein,rock,33627087,Heirate Mich,Rammstein,rock,0.09262420898437351
+547,34922692,Mountains,Hans Zimmer,score,34922607,Day One,Hans Zimmer,score,0.2189575224318232
+548,8584271,Walk Away From Love,David Ruffin,rnb,47013413,My Whole World Ended (The Moment You Left Me),David Ruffin,rnb,0.1449446109121243
+549,47226649,Cowboy Song,Thin Lizzy,rock,47027331,Jailbreak,Thin Lizzy,rock,0.22195611706222207
+550,42792623,Chase The Devil,Max Romeo,reggae,47199122,Police In Helicopter,John Holt,reggae,0.24417926489708341
+551,54569583,Quiet Storm,Smokey Robinson,rnb,50854352,Stairway to Heaven,The O'Jays,pop,0.11658192035466353
+552,35034615,American Beauty,Thomas Newman,score,39443762,"Becoming one of ""The People"" Becoming one with Neytiri",James Horner,score,0.10331240661948327
+553,46864414,Born Under A Bad Sign,Albert King,blues,40115299,Boom Boom,John Lee Hooker,blues,0.19313646788699235
+554,46873344,Ratamahatta,Sepultura,rock,33023136,My Girlfriend's Girlfriend,Type O Negative,rock,0.22839840278923018
+555,47080200,Catch The Rainbow,Rainbow,rock,9076759,The Temple Of The King,Rainbow,rock,0.07090916662865665
+556,46838151,Gone Away,Five Finger Death Punch,metal,49887239,Bulletproof,Godsmack,rock,0.14406361354240516
+557,38717090,No More Mr. Nice Guy (Album Version),Alice Cooper,rock,41170133,I'm Eighteen,Alice Cooper,rock,0.1502731928165283
+558,46868554,The Ghetto (LP Version),Donny Hathaway,soul,46865664,If You Want Me To Stay,Sly & The Family Stone,pop,0.24938758509390413
+559,49887239,Bulletproof,Godsmack,rock,46838151,Gone Away,Five Finger Death Punch,metal,0.14406361354240516
+560,45279428,Come Together,Gary Clark Jr.,rock,45478801,KILL4ME,Marilyn Manson,rock,0.37695003788862247
+561,47450319,Song #3,Stone Sour,rock,41556388,Help,Papa Roach,rock,0.08407365860718874
+562,34815825,For The Love Of A Princess,James Horner,score,34815828,Main Title,James Horner,score,0.14959266103691427
+563,32963063,Johnny B Goode (2002 Remastered Version),Peter Tosh,reggae,53687904,Bush Doctor (2002 Remastered Version),Peter Tosh,reggae,0.2844957735317444
+564,46874227,In The Midnight Hour,Wilson Pickett,soul,46330311,When A Man Loves A Woman,Percy Sledge,pop,0.23068762540321242
+565,47354455,Broken Bones,Kaleo,alternative,38931364,I Can't Go On Without You,Kaleo,alternative,0.22066933599863015
+566,47021105,Caught In A Mosh,Anthrax,rock,49648703,Painkiller,Judas Priest,rock,0.18072610794343236
+567,32404756,I Can't Be Satisfied,Muddy Waters,blues,54887524,My Babe,Little Walter,blues,0.1332744440107877
+568,34922607,Day One,Hans Zimmer,score,34922750,Cornfield Chase,Hans Zimmer,score,0.06586538889283589
+569,48200584,Seasons In The Abyss,Slayer,metal,34604448,South of Heaven,Slayer,metal,0.1122120033055578
+570,25611115,Bernadette,Four Tops,pop,47013413,My Whole World Ended (The Moment You Left Me),David Ruffin,rnb,0.2025059137301879
+571,43470950,Walk with Me In Hell,Lamb of God,rock,32329287,Redneck,Lamb of God,rock,0.08464381503903418
+572,26546576,Sleeping Sun,Nightwish,metal,42753723,Nemo,Nightwish,metal,0.12572584485021288
+573,46985367,Got The Time,Anthrax,rock,47021105,Caught In A Mosh,Anthrax,rock,0.1968623543376984
+574,32696593,Feel So Numb,Rob Zombie,rock,46984368,Superbeast,Rob Zombie,rock,0.10806204572785516
+575,47081381,My Home Is In The Delta,Muddy Waters,blues,32370518,Good Morning Little Schoolgirl,Muddy Waters,blues,0.11671329387112961
+576,14254842,Are You Dead Yet,Children Of Bodom,metal,14254815,In Your Face,Children Of Bodom,metal,0.11102552276848954
+577,52082255,Any Other Name,Thomas Newman,score,35034583,Dead Already,Thomas Newman,score,0.16921004990435684
+578,39443762,"Becoming one of ""The People"" Becoming one with Neytiri",James Horner,score,35034615,American Beauty,Thomas Newman,score,0.10331240661948327
+579,33626893,Feuer Frei,Rammstein,rock,33627091,Rammstein,Rammstein,rock,0.1938957649017503
+580,46946684,I Forgot To Be Your Lover,William Bell,rnb,46946682,Private Number,William Bell,rnb,0.17227528234954725
+581,51971707,Evidence,Faith No More,rock,46947571,Midlife Crisis,Faith No More,rock,0.19972008542274622
+582,8588890,Zungguzungguguzungguzung,Yellowman,reggae,47199122,Police In Helicopter,John Holt,reggae,0.15730010757862123
+583,50007286,Wither,Dream Theater,rock,46882297,Another Day (LP Version),Dream Theater,rock,0.28269740771832286
+584,33022958,Kings Of Metal (LP Version),Manowar,rock,33022994,Carry On  (LP Version),Manowar,rock,0.08801355354006624
+585,32896878,Push It,Static-X,rock,7866532,Dig,Mudvayne,pop,0.10730644894808805
+586,40115299,Boom Boom,John Lee Hooker,blues,47024168,Boogie Children,John Lee Hooker,blues,0.16529552799790803
+587,53639690,God Bless The Child,Billie Holiday,jazz,37955975,I Get Along Without You Very Well,Billie Holiday,jazz,0.17371143971328928
+588,57189552,Mustang Sally,Wilson Pickett,soul,57189586,In The Midnight Hour,Wilson Pickett,soul,0.08176432018778956
+589,33561206,The Arms of Sorrow,Killswitch Engage,metal,32329343,Laid to Rest,Lamb of God,rock,0.14652519601817726
+590,38129864,Opening,Philip Glass,classical,38129868,Closing,Philip Glass,classical,0.18242548678652226
+591,16607497,Baltimore,Lianne La Havas,alternative,31947387,Perfect Darkness,Fink,alternative,0.35186330307970515
+592,46884521,I'll Be Seeing You,Billie Holiday,jazz,47021261,A Sunday Kind Of Love,Etta James,pop,0.1732725532427285
+593,33562027,Windowpane,Opeth,rock,54773547,Ghost of Perdition,Opeth,rock,0.14530234605248293
+594,8584131,I Miss You (Part 1),David Ruffin,rnb,51502939,Forever Mine,The O'Jays,pop,0.10755871048377796
+595,38204807,Rumble And Sway,Jamie N Commons,alternative,49032307,Bright Lights,Gary Clark Jr.,rock,0.29652156615473657
+596,47084125,Lucille,B.B. King,blues,47081241,How Blue Can You Get?,B.B. King,blues,0.12394216451550377
+597,34912682,Arise (Reissue),Sepultura,rock,39335741,Refuse / Resist,Sepultura,rock,0.17029744009006098
+598,33627087,Heirate Mich,Rammstein,rock,33627091,Rammstein,Rammstein,rock,0.09262420898437351
+599,31947327,Perfect Darkness,Fink,alternative,31947387,Perfect Darkness,Fink,alternative,0.1634808979826241
+600,31987591,Green Machine (LP Version),Kyuss,rock,31987614,Supa Scoopa And Mighty Scoop,Kyuss,rock,0.10818798880600844
+601,46882297,Another Day (LP Version),Dream Theater,rock,40354743,"Metropolis - Part I (""The Miracle And The Sleeper"") (LP Version)",Dream Theater,rock,0.24132988689472712
+602,32071788,Only My Heart Talkin',Alice Cooper,rock,34887057,Don't Cry (Original),Guns N' Roses,rock,0.23409924902150603
+603,46872072,Statesboro Blues,Taj Mahal,blues,47458860,Going Down,Freddie King,blues,0.13392978254244803
+604,8400305,"Music for Jane Campion's Film ""The Piano"": No. 4 ""The Heart Asks Pleasure First"" - No. 6 ""The Promise""",Michael Nyman,score,24006507,Together We Will Live Forever,Clint Mansell,score,0.18612886462564826
+605,7866670,Not Falling,Mudvayne,pop,7866618,Happy?,Mudvayne,pop,0.08383242137860436
+606,31073414,The quiet place,In Flames,rock,31073428,Only the weak,In Flames,rock,0.133196887979254
+607,30419297,Stand By Me,Ben E. King,pop,33349591,You Really Got A Hold On Me,Smokey Robinson,rnb,0.1976470228953936
+608,29193187,The Thrill Is Gone,B.B. King,blues,46706851,Call It Stormy Monday,Albert King,blues,0.1952389751047936
+609,37002392,Banana Boat (Day-O) (Remastered),Harry Belafonte,pop,46870522,Jump In the Line,Harry Belafonte,pop,0.35358849828987204
+610,57189586,In The Midnight Hour,Wilson Pickett,soul,57189552,Mustang Sally,Wilson Pickett,soul,0.08176432018778956
+611,32063102,Domination  (LP Version),Pantera,rock,40499515,This Love  (LP Version),Pantera,rock,0.08689239980783281
+612,40718595,The Sky Is Crying,Elmore James,blues,49878922,Dust My Broom,Elmore James,blues,0.1311164042753138
+613,36125387,Ain't It a Sin,Charles Bradley,rnb,28756663,I Still Got It,Lee Fields,rnb,0.2602162025079542
+614,54887524,My Babe,Little Walter,blues,46859952,Back Door Man,Howlin' Wolf,blues,0.1074393786993656
+615,41662528,Perfect Ruin,Kwabs,alternative,31337734,Cheating On Me,Kwabs,alternative,0.3775302651360496
+616,31987612,Gardenia,Kyuss,rock,31987591,Green Machine (LP Version),Kyuss,rock,0.21667244217640014
+617,47081241,How Blue Can You Get?,B.B. King,blues,47081242,Don't Answer The Door,B.B. King,blues,0.09559514302910499
+618,31947386,Trouble's What You're In,Fink,alternative,31947387,Perfect Darkness,Fink,alternative,0.16927660345512452
+619,33022994,Carry On  (LP Version),Manowar,rock,33022958,Kings Of Metal (LP Version),Manowar,rock,0.08801355354006624
+620,46952620,Cool Down The Pace,Gregory Isaacs,reggae,9090095,Mellow Mood,Bunny Wailer,reggae,0.15188559244121136
+621,16404262,Lead Me Home,Jamie N Commons,alternative,39324994,You Better Run,Junior Kimbrough,blues,0.2917603725090522
+622,34823282,"The Breaking Of The Fellowship (feat. ""In Dreams"")",Howard Shore,score,39443755,Concerning Hobbits,Howard Shore,score,0.11278449319475548
+623,46330311,When A Man Loves A Woman,Percy Sledge,pop,46874227,In The Midnight Hour,Wilson Pickett,soul,0.23068762540321242
+624,37905128,Main Title Theme – Westworld,Ramin Djawadi,score,34823268,The Bridge Of Khazad Dum,Howard Shore,score,0.16230083533285766
+625,31835440,The Banana Boat Song (Day-O) (Live),Harry Belafonte,pop,32870061,You Can Get It If You Really Want,Jimmy Cliff,reggae,0.35140995396605124
+626,46952629,Handsworth Revolution,Steel Pulse,reggae,53687904,Bush Doctor (2002 Remastered Version),Peter Tosh,reggae,0.06741516109500512
+627,31073276,Take This Life,In Flames,rock,31073428,Only the weak,In Flames,rock,0.12414845265495944
+628,38227768,Say a Little Prayer (Live),Lianne La Havas,alternative,47027878,Green & Gold,Lianne La Havas,alternative,0.4103323139735663
+629,38129868,Closing,Philip Glass,classical,38129864,Opening,Philip Glass,classical,0.18242548678652226
+630,48028638,Sympathy For The Devil,Motörhead,rock,34833201,Whiskey In The Jar,Metallica,rock,0.2409242475359865
+631,47013413,My Whole World Ended (The Moment You Left Me),David Ruffin,rnb,8584271,Walk Away From Love,David Ruffin,rnb,0.1449446109121243
+632,53687904,Bush Doctor (2002 Remastered Version),Peter Tosh,reggae,46952629,Handsworth Revolution,Steel Pulse,reggae,0.06741516109500512
+633,33023136,My Girlfriend's Girlfriend,Type O Negative,rock,46873344,Ratamahatta,Sepultura,rock,0.22839840278923018
+634,30291180,Heartaches and Pain,Charles Bradley,rnb,42373233,The World (Is Going Up In Flames),Charles Bradley,rnb,0.17891007014880378
+635,37955975,I Get Along Without You Very Well,Billie Holiday,jazz,53639690,God Bless The Child,Billie Holiday,jazz,0.17371143971328928
+636,30622699,The Makings of You (From the Original Motion Picture Soundtrack),Gladys Knight & The Pips,pop,54569583,Quiet Storm,Smokey Robinson,rnb,0.15081862232763132
+637,47096156,Indians,Anthrax,rock,40500135,Electric Crown  (LP Version),Testament,rock,0.11591077713403275
+638,8584172,Common Man,David Ruffin,rnb,8584131,I Miss You (Part 1),David Ruffin,rnb,0.22448638830006584
+639,32121123,The Three Of Me,William Bell,rnb,32121124,Poison In The Well,William Bell,rnb,0.31631943659000183
+640,52812288,Shy,Leon Bridges,soul,51143034,Bad Bad News,Leon Bridges,soul,0.1854396069885903
+641,54781380,The Enemy Inside,Dream Theater,rock,32312365,Hail to the King,Avenged Sevenfold,rock,0.2943153284134514
+642,25350644,Alright,Jordan Rakei,soul,25350658,Midnight Mischief,Jordan Rakei,soul,0.23405079540553786
+643,54262022,I Can't Quit You Baby,Otis Rush,blues,46859182,Born Under A Bad Sign (with Stevie Ray Vaughan),Albert King,blues,0.1273622874065784
+644,32307368,Chase The Devil,Max Romeo,reggae,29406357,Chase The Devil,Max Romeo,reggae,0.17619692180458746
+645,35034583,Dead Already,Thomas Newman,score,52082255,Any Other Name,Thomas Newman,score,0.16921004990435684
+646,47458860,Going Down,Freddie King,blues,46872072,Statesboro Blues,Taj Mahal,blues,0.13392978254244803
+647,49510898,Your House,Steel Pulse,reggae,49510899,Roller Skates,Steel Pulse,reggae,0.07622848952502159
+648,47787024,The Dark End Of The Street,James Carr,soul,10451714,Pouring Water On a Drowning Man (Version 2),James Carr,soul,0.30751932563722695
+649,32622396,London,James Newton Howard,score,50718760,Time,Hans Zimmer,score,0.207371484693206
+650,24006507,Together We Will Live Forever,Clint Mansell,score,50718760,Time,Hans Zimmer,score,0.18250788994517653
+651,51848019,007 (Shanty Town),Desmond Dekker,reggae,39190015,Israelites,Desmond Dekker,reggae,0.1736436960341864
+652,33022978,Heart Of Steel (LP Version),Manowar,rock,42769960,A Tout Le Monde,Megadeth,metal,0.18435624313302879
+653,33317505,Can't Stop A Man,Beres Hammond,reggae,41664163,Rock Away,Beres Hammond,reggae,0.08560764912675067
+654,31040636,Rap Game,D12,hiphop,55468202,Fight Music,D12,hiphop,0.18359954747317364
+655,28756644,Wish You Were Here,Lee Fields,rnb,42373233,The World (Is Going Up In Flames),Charles Bradley,rnb,0.2689448720234837
+656,31073675,Trigger,In Flames,rock,14255151,Needled 24 / 7,Children Of Bodom,metal,0.12673174884159
+657,46859182,Born Under A Bad Sign (with Stevie Ray Vaughan),Albert King,blues,53117058,Katie Mae Blues,Lightnin' Hopkins,blues,0.11258515321151585
+658,47105292,Born Under A Bad Sign,Albert King,blues,47674120,Soul Man,Sam & Dave,soul,0.2325300176103039
+659,49451828,Tired,Stone Sour,rock,23800609,Bother,Stone Sour,rock,0.18545493555664194
+660,55966706,River Deep Mountain High,Ike & Tina Turner,pop,46874227,In The Midnight Hour,Wilson Pickett,soul,0.2859741699111594
+661,40503405,Revolution,Dennis Brown,reggae,41004373,Here I Come,Dennis Brown,reggae,0.18070346029825646
+662,31987629,Demon Cleaner,Kyuss,rock,31987630,Space Cadet,Kyuss,rock,0.21116561353540542
+663,33561304,This Fire Burns (CM Punk),Killswitch Engage,metal,33561232,The End of Heartache,Killswitch Engage,metal,0.24604185132020895
+664,17101787,Image-Autumn-Womb,Goldmund,electro,56248610,Threnody,Goldmund,electro,0.23306865497093332
+665,53595689,Blue No More,Buddy Guy,blues,54407106,The Blues Is Alive And Well,Buddy Guy,blues,0.2136817638076498
+666,54450029,My Babe,Little Walter,blues,54887524,My Babe,Little Walter,blues,0.161708991576053
+667,49170402,Engel,Rammstein,rock,33626984,Stripped,Rammstein,rock,0.18417471826786957
+668,57016289,Marcus Garvey,Burning Spear,reggae,46952623,Slavery Days,Burning Spear,reggae,0.10697059460793035
+669,42679020,Dust My Broom,Elmore James,blues,46859182,Born Under A Bad Sign (with Stevie Ray Vaughan),Albert King,blues,0.16232486901154364
+670,46991923,Don't Turn Around,Aswad,reggae,47020600,Give A Little Love,Aswad,reggae,0.18427027507323268
+671,6295192,Devil Got My Woman,Skip James,blues,48487083,Stack O'Lee (Album Version),Mississippi John Hurt,blues,0.11810242312393437
+672,33023134,Black No. 1 (Little Miss Scare -All),Type O Negative,rock,47620689,Summer Breeze,Type O Negative,rock,0.14702844292516282
+673,41004373,Here I Come,Dennis Brown,reggae,33317505,Can't Stop A Man,Beres Hammond,reggae,0.11507460056758734
+674,33022957,Hail And Kill (LP Version),Manowar,rock,49398540,Don't Talk To Strangers,Dio,rock,0.1737900495254302
+675,8400309,The Heart Asks Pleasure First,Michael Nyman,score,34815828,Main Title,James Horner,score,0.2628318164644261
+676,14255151,Needled 24 / 7,Children Of Bodom,metal,14254815,In Your Face,Children Of Bodom,metal,0.086415895535075
+677,46099075,We Gotta Get Out of This Place,The Animals,pop,55779402,House Of The Rising Sun,The Animals,pop,0.22799616636661701
+678,24006355,Lux Aeterna,Clint Mansell,score,50718760,Time,Hans Zimmer,score,0.18967466821711654
+679,32370518,Good Morning Little Schoolgirl,Muddy Waters,blues,47081381,My Home Is In The Delta,Muddy Waters,blues,0.11671329387112961
+680,57189874,Spanish Harlem,Ben E. King,pop,57189586,In The Midnight Hour,Wilson Pickett,soul,0.16845645304962342
+681,17101766,In A Notebook,Goldmund,electro,56248610,Threnody,Goldmund,electro,0.22366826680177954
+682,42713733,Reet Petite,Jackie Wilson,pop,42705008,Fever,Little Willie John,blues,0.2962673585181492
+683,34815828,Main Title,James Horner,score,39443762,"Becoming one of ""The People"" Becoming one with Neytiri",James Horner,score,0.13322940393426286
+684,47199122,Police In Helicopter,John Holt,reggae,9090095,Mellow Mood,Bunny Wailer,reggae,0.1514667481447617
+685,8584179,(If Loving You Is Wrong) I Don't Want To Be Right,David Ruffin,rnb,51502938,Cry Together,The O'Jays,pop,0.12456025779374469
+686,47674120,Soul Man,Sam & Dave,soul,47226500,When A Man Loves A Woman,Percy Sledge,pop,0.10945744507222988
+687,8591445,Hound Dog,Big Mama Thornton,blues,54887524,My Babe,Little Walter,blues,0.16006945307609655
+688,49510899,Roller Skates,Steel Pulse,reggae,49510898,Your House,Steel Pulse,reggae,0.07622848952502159
+689,48028646,Victory Or Die,Motörhead,rock,46985389,Overkill,Motörhead,rock,0.24798522220049501
+690,38933460,The Healing,Gary Clark Jr.,rock,47674120,Soul Man,Sam & Dave,soul,0.23000619443320292
+691,7866682,World So Cold,Mudvayne,pop,7866670,Not Falling,Mudvayne,pop,0.13107122441043229
+692,31337731,Forgiven,Kwabs,alternative,31337734,Cheating On Me,Kwabs,alternative,0.27192218455755257
+693,32896869,Cold,Static-X,rock,32896818,I'm With Stupid,Static-X,rock,0.09325593605477267
+694,47066960,Book Of Rules,The Heptones,reggae,57016289,Marcus Garvey,Burning Spear,reggae,0.20404603742264904
+695,31337701,Last Stand,Kwabs,alternative,31337734,Cheating On Me,Kwabs,alternative,0.44588696199776523
+696,14254880,Oops!...I Did It Again,Children Of Bodom,metal,33561235,Holy Diver,Killswitch Engage,metal,0.17626135628058748
+697,33562036,Burden,Opeth,rock,33562027,Windowpane,Opeth,rock,0.16084909693741145
+698,31947428,Truth Begins,Fink,alternative,17101785,Ouendake (Album Version),Goldmund,electro,0.3876207222010316
+699,52077834,When Legends Rise,Godsmack,rock,49887239,Bulletproof,Godsmack,rock,0.14865310794524622
+700,43444709,Hold On I'm Coming,Sam & Dave,soul,41620988,Soul Man,Sam & Dave,soul,0.239480084338344
+701,32124209,I'll Play The Blues For You,Albert King,blues,34418471,"Troubles, Troubles, Troubles",Otis Rush,blues,0.16982872810239868
+702,32697383,"Well, Everybody's Fucking In A U.F.O.",Rob Zombie,rock,32696593,Feel So Numb,Rob Zombie,rock,0.21692522342067333
+703,46859952,Back Door Man,Howlin' Wolf,blues,54887524,My Babe,Little Walter,blues,0.1074393786993656
+704,47620690,Love You To Death,Type O Negative,rock,47620688,Christian Woman,Type O Negative,rock,0.15745663582333913
+705,8708658,Twist Of Cain,Danzig,rock,8708697,Am I Demon,Danzig,rock,0.11443019305306668
+706,8652070,Banana & Yam Skank,King Tubby,reggae,32871434,Another Cycle,Jimmy Cliff,reggae,0.23562504727778055
+707,54773547,Ghost of Perdition,Opeth,rock,33562027,Windowpane,Opeth,rock,0.14530234605248293
+708,47286322,Superhero,Faith No More,rock,40500135,Electric Crown  (LP Version),Testament,rock,0.35450465271637577
+709,32329339,Omerta,Lamb of God,rock,32329331,Hourglass (Album Version),Lamb of God,rock,0.14456639094854828
+710,29249067,Black Sunshine,White Zombie,rock,32896878,Push It,Static-X,rock,0.19861461671706604
+711,53270786,Stranger In Town,Gregory Isaacs,reggae,53270788,Hot Stepper,Gregory Isaacs,reggae,0.0757259170317397
+712,34188863,The Poet Acts,Philip Glass,classical,34922607,Day One,Hans Zimmer,score,0.2211435237299082
+713,47081242,Don't Answer The Door,B.B. King,blues,47081241,How Blue Can You Get?,B.B. King,blues,0.09559514302910499
+714,49152093,Firepower,Judas Priest,rock,48198913,Lightning Strike,Judas Priest,rock,0.0511694266983731
+715,8708679,Devil's Plaything,Danzig,rock,8708852,She Rides,Danzig,rock,0.15686357601504675
+716,7866628,Forget to Remember,Mudvayne,pop,7866532,Dig,Mudvayne,pop,0.1227746653001518
+717,44594537,Nerve,Jordan Rakei,soul,44594538,Goodbyes,Jordan Rakei,soul,0.22320738113331662
+718,33023004,The Gods Made Heavy Metal,Manowar,rock,33022994,Carry On  (LP Version),Manowar,rock,0.11565276571260885
+719,50854330,John the Revelator,Son House,blues,47081381,My Home Is In The Delta,Muddy Waters,blues,0.2828464550641512
+720,49151788,Raining Blood,Slayer,metal,46887239,Holy Wars...The Punishment Due,Megadeth,metal,0.20037391392788828
+721,46879955,Sweet Home Chicago,Robert Johnson,blues,49566164,Death Letter Blues,Son House,blues,0.17762614801556686
+722,48189040,Still of the Night (2017 Remastered Version),Whitesnake,rock,47734440,Rock Of Ages,Def Leppard,rock,0.16426389415683562
+723,55875369,I've Been Loving You Too Long (To Stop Now),Otis Redding,soul,47226500,When A Man Loves A Woman,Percy Sledge,pop,0.08023519302053828
+724,35036146,Chai,Thomas Newman,score,17101766,In A Notebook,Goldmund,electro,0.25211334163665655
+725,50161305,The Sky Is Crying,Stevie Ray Vaughan,rock,29996367,Pipeline,Stevie Ray Vaughan,rock,0.24330196984115637
+726,43042968,Wanted Dread and Alive (2002 Remastered Version),Peter Tosh,reggae,9275876,The International Herb,Culture,reggae,0.1981508825689875
+727,47537656,I'm Yours and I'm Hers,Johnny Winter,blues,34910624,Stormy Monday (aka Call It Stormy Monday),T-Bone Walker,blues,0.21845592481624765
+728,37905125,"Paint It, Black",Ramin Djawadi,score,37905128,Main Title Theme – Westworld,Ramin Djawadi,score,0.1680935814411726
+729,46861644,How Many More Years,Howlin' Wolf,blues,46859953,Bring It On Home,Sonny Boy Williamson,blues,0.2209870914238935
+730,49878922,Dust My Broom,Elmore James,blues,40718595,The Sky Is Crying,Elmore James,blues,0.1311164042753138
+731,48198913,Lightning Strike,Judas Priest,rock,49152093,Firepower,Judas Priest,rock,0.0511694266983731
+732,38948921,Stairway To Heaven,Led Zeppelin,rock,38948918,Black Dog,Led Zeppelin,rock,0.24092187320837866
+733,47553337,Cities On Flame with Rock and Roll,Blue Öyster Cult,rock,47027331,Jailbreak,Thin Lizzy,rock,0.20873898177566053
+734,47226606,Since I've Been Loving You,Jimmy Page,rock,47022323,Cross Road Blues,Robert Johnson,blues,0.30233615905969957
+735,47081277,Wang Dang Doodle,Howlin' Wolf,blues,8134305,Eyesight To The Blind,Sonny Boy Williamson,blues,0.14616416416552813
+736,47509478,Sponji Reggae,Black Uhuru,reggae,46952643,Youth Of Eglington,Black Uhuru,reggae,0.15124062460179588
+737,45329981,Piece of My Heart,Janis Joplin,pop,46330311,When A Man Loves A Woman,Percy Sledge,pop,0.32067703491519517
+738,45011309,Toe to Toes,Mastodon,metal,54778175,So Far Under,Alice In Chains,rock,0.3184544263290119
+739,47620688,Christian Woman,Type O Negative,rock,47620690,Love You To Death,Type O Negative,rock,0.15745663582333913
+740,49510897,Steppin' Out,Steel Pulse,reggae,49510900,Chant A Psalm,Steel Pulse,reggae,0.08666519173430653
+741,40354743,"Metropolis - Part I (""The Miracle And The Sleeper"") (LP Version)",Dream Theater,rock,47076925,Pull Me Under (LP Version),Dream Theater,rock,0.1314345510794418
+742,34890991,Mojo Hand,Lightnin' Hopkins,blues,54887524,My Babe,Little Walter,blues,0.13424641718737607
+743,47145299,The Heart Asks Pleasure First,Michael Nyman,score,34815825,For The Love Of A Princess,James Horner,score,0.19922446939004834
+744,46991810,Among The Living,Anthrax,rock,47096156,Indians,Anthrax,rock,0.14350174748637745
+745,34865402,Chill Out (Things Gonna Change),John Lee Hooker,blues,40115299,Boom Boom,John Lee Hooker,blues,0.210026737563774
+746,34823268,The Bridge Of Khazad Dum,Howard Shore,score,34823265,Many Meetings,Howard Shore,score,0.1299559595387535
+747,39465409,It Must Have Been The Devil,Otis Spann,blues,48487083,Stack O'Lee (Album Version),Mississippi John Hurt,blues,0.1325741250814252
+748,34910624,Stormy Monday (aka Call It Stormy Monday),T-Bone Walker,blues,48487083,Stack O'Lee (Album Version),Mississippi John Hurt,blues,0.09186383284922173
+749,46860781,Hound Dog,Big Mama Thornton,blues,49878922,Dust My Broom,Elmore James,blues,0.1909812821428596
+750,8676863,I'm Still In Love,Alton Ellis,reggae,47100525,Israelites,Desmond Dekker,reggae,0.3324075952680401
+751,34843937,It Serves You Right To Suffer,John Lee Hooker,blues,46859952,Back Door Man,Howlin' Wolf,blues,0.21768261928358923
+752,8588578,Nobody Move Nobody Get Hurt,Yellowman,reggae,53270786,Stranger In Town,Gregory Isaacs,reggae,0.2202696720189069
+753,39190015,Israelites,Desmond Dekker,reggae,47100525,Israelites,Desmond Dekker,reggae,0.13962712952435752
+754,47020600,Give A Little Love,Aswad,reggae,46991923,Don't Turn Around,Aswad,reggae,0.18427027507323268
+755,8708852,She Rides,Danzig,rock,8708679,Devil's Plaything,Danzig,rock,0.15686357601504675
+756,8133849,Help Me,Sonny Boy Williamson,blues,34890991,Mojo Hand,Lightnin' Hopkins,blues,0.1478714860155339
+757,57217158,Are You Ready,Disturbed,rock,49887239,Bulletproof,Godsmack,rock,0.15189098366877407
+758,41446707,Sultan's Curse,Mastodon,metal,41446708,Steambreather,Mastodon,metal,0.3283008103309343
+759,10222265,Slabo Day,Peter Green,rock,10221826,A Fool No More,Peter Green,rock,0.17797781726062545
+760,56574418,Guess Who's Coming To Dinner,Black Uhuru,reggae,33467488,96°Degrees In The Shade,Third World,reggae,0.13498703432820347
+761,57411613,Police In Helicopter,John Holt,reggae,47199122,Police In Helicopter,John Holt,reggae,0.18133227495479953
+762,47226500,When A Man Loves A Woman,Percy Sledge,pop,55875369,I've Been Loving You Too Long (To Stop Now),Otis Redding,soul,0.08023519302053828
+763,43147521,Black Snake Moan,Blind Lemon Jefferson,blues,53117058,Katie Mae Blues,Lightnin' Hopkins,blues,0.09292461741501701
+764,47049335,I'm Gonna Tear Your Playhouse Down,Ann Peebles,soul,46946682,Private Number,William Bell,rnb,0.20444046815844596
+765,43049613,To Be Loved,Jackie Wilson,pop,34470927,"What'd I Say, Pt. I & II",Ray Charles,pop,0.164862216262745
+766,34815723,"""You don't dream in cryo. ....""",James Horner,score,39443762,"Becoming one of ""The People"" Becoming one with Neytiri",James Horner,score,0.20488727888374014
+767,32329331,Hourglass (Album Version),Lamb of God,rock,32329343,Laid to Rest,Lamb of God,rock,0.06831186446104465
+768,54498799,Try Jah Love,Third World,reggae,33467488,96°Degrees In The Shade,Third World,reggae,0.17754148760230493
+769,8444309,Fittest Of The Fittest (2002 Remastered Version),Burning Spear,reggae,53687904,Bush Doctor (2002 Remastered Version),Peter Tosh,reggae,0.09610773374286008
+770,53270788,Hot Stepper,Gregory Isaacs,reggae,53270786,Stranger In Town,Gregory Isaacs,reggae,0.0757259170317397
+771,51495590,Come On In My Kitchen,Robert Johnson,blues,27446958,Walking Blues,Son House,blues,0.08159242639022724
+772,47100525,Israelites,Desmond Dekker,reggae,39190015,Israelites,Desmond Dekker,reggae,0.13962712952435752
+773,29481098,It Serves You Right To Suffer,John Lee Hooker,blues,34843937,It Serves You Right To Suffer,John Lee Hooker,blues,0.225208769302364
+774,33464842,Promised Land,Dennis Brown,reggae,41509573,Should I,Dennis Brown,reggae,0.17488831974472385
+775,49566164,Death Letter Blues,Son House,blues,39451657,Grinnin' in Your Face,Son House,blues,0.15092139118378056
+776,33467488,96°Degrees In The Shade,Third World,reggae,56574418,Guess Who's Coming To Dinner,Black Uhuru,reggae,0.13498703432820347
+777,43247397,Sorceress,Jordan Rakei,soul,44594537,Nerve,Jordan Rakei,soul,0.2305527337130171
+778,37024877,Brotherhood of the Snake,Testament,rock,40499345,Practice What You Preach (LP Version),Testament,rock,0.17529826467005283
+779,8767899,Fite Dem Back,Linton Kwesi Johnson,reggae,8444309,Fittest Of The Fittest (2002 Remastered Version),Burning Spear,reggae,0.10181348893749265
+780,48487083,Stack O'Lee (Album Version),Mississippi John Hurt,blues,47820620,Good Morning School Girl (2002 Remastered),Sonny Boy Williamson,blues,0.07635489652162497
+781,39547412,Baby Workout,Jackie Wilson,pop,44856011,Lonely Teardrops,Jackie Wilson,pop,0.20444971683714808
+782,38011388,Sorceress,Opeth,rock,33562217,The Wilde Flowers,Opeth,rock,0.20133043494738356
+783,31987614,Supa Scoopa And Mighty Scoop,Kyuss,rock,31987591,Green Machine (LP Version),Kyuss,rock,0.10818798880600844
+784,47450463,Return To Serenity (LP Version),Testament,rock,42769960,A Tout Le Monde,Megadeth,metal,0.1309440857531995
+785,40500135,Electric Crown  (LP Version),Testament,rock,47096156,Indians,Anthrax,rock,0.11591077713403275
+786,40708347,Don't Leave Me Here,Taj Mahal,blues,41331570,All Around The World,Taj Mahal,blues,0.2198498246685736
+787,14104158,Nobody but You,Charles Bradley,rnb,41517606,Changes,Charles Bradley,rnb,0.1699087030741525
+788,31337734,Cheating On Me,Kwabs,alternative,31337731,Forgiven,Kwabs,alternative,0.27192218455755257
+789,37988023,Pass The Kutchie,The Mighty Diamonds,reggae,46952629,Handsworth Revolution,Steel Pulse,reggae,0.17811162680538128
+790,46946682,Private Number,William Bell,rnb,46946684,I Forgot To Be Your Lover,William Bell,rnb,0.17227528234954725
+791,49510900,Chant A Psalm,Steel Pulse,reggae,49510897,Steppin' Out,Steel Pulse,reggae,0.08666519173430653
+792,32871434,Another Cycle,Jimmy Cliff,reggae,8444309,Fittest Of The Fittest (2002 Remastered Version),Burning Spear,reggae,0.10606056431460131
+793,42705008,Fever,Little Willie John,blues,41205010,I'm Shakin',Little Willie John,blues,0.22131568636496102
+794,49649567,Veteran of the Psychic Wars,Blue Öyster Cult,rock,37952946,(Don't Fear) The Reaper,Blue Öyster Cult,rock,0.2858340444252502
+795,10221826,A Fool No More,Peter Green,rock,10222265,Slabo Day,Peter Green,rock,0.17797781726062545
+796,46706851,Call It Stormy Monday,Albert King,blues,34890991,Mojo Hand,Lightnin' Hopkins,blues,0.1673524530428533
+797,45969559,Time,Lee Fields,rnb,47074351,Pineapple Skies,Miguel,rnb,0.3371325946491416
+798,47620689,Summer Breeze,Type O Negative,rock,33023134,Black No. 1 (Little Miss Scare -All),Type O Negative,rock,0.14702844292516282
+799,25350658,Midnight Mischief,Jordan Rakei,soul,44594538,Goodbyes,Jordan Rakei,soul,0.21045129742692814
+800,44856011,Lonely Teardrops,Jackie Wilson,pop,39547412,Baby Workout,Jackie Wilson,pop,0.20444971683714808
+801,32896818,I'm With Stupid,Static-X,rock,32896820,Bled For Days,Static-X,rock,0.07005696073808498
+802,27446958,Walking Blues,Son House,blues,47820620,Good Morning School Girl (2002 Remastered),Sonny Boy Williamson,blues,0.059474297469259474
+803,46861654,Juke,Little Walter,blues,49878922,Dust My Broom,Elmore James,blues,0.22614953259508408
+804,10316266,Is It Because I'm Black,Syl Johnson,soul,41451284,"Trouble, Heartaches & Sadness",Ann Peebles,soul,0.1860027386637979
+805,51774298,Going Down,Freddie King,blues,48235185,How Long Blues,T-Bone Walker,blues,0.2481967230336154
+806,46952007,One Step Forward,Max Romeo,reggae,9275876,The International Herb,Culture,reggae,0.20816824551119606
+807,39335752,Roots Bloody Roots (Remastered),Sepultura,rock,40499345,Practice What You Preach (LP Version),Testament,rock,0.228930001436647
+808,43652090,On And On,Curtis Harding,rnb,45008338,Wednesday Morning Atonement,Curtis Harding,rnb,0.24090496965618857
+809,9388130,Tenement Yard,Jacob Miller,reggae,9275876,The International Herb,Culture,reggae,0.1929969454624204
+810,47226611,Kashmir,Jimmy Page,rock,29883560,Thank You,Jimmy Page,rock,0.25968822981323414
+811,8708697,Am I Demon,Danzig,rock,8708658,Twist Of Cain,Danzig,rock,0.11443019305306668
+812,52819113,The One You Know,Alice In Chains,rock,54778175,So Far Under,Alice In Chains,rock,0.18045711199029058
+813,9090095,Mellow Mood,Bunny Wailer,reggae,47199122,Police In Helicopter,John Holt,reggae,0.1514667481447617
+814,8400588,The Promise,Michael Nyman,score,34922607,Day One,Hans Zimmer,score,0.19036721696125325
+815,6255748,Rise Up,Testament,rock,40500135,Electric Crown  (LP Version),Testament,rock,0.21153359777532166
+816,51269685,I Believe I'll Dust My Broom (Album Version),Robert Johnson,blues,7831266,Make Me A Pallet On Your Floor,Mississippi John Hurt,blues,0.13042681730642147
+817,41451284,"Trouble, Heartaches & Sadness",Ann Peebles,soul,10316266,Is It Because I'm Black,Syl Johnson,soul,0.1860027386637979
+818,40841033,Stick By Me,John Holt,reggae,40876601,Love I Can Feel,John Holt,reggae,0.17228046638215233
+819,46872074,Johnny B. Goode,Johnny Winter,blues,47021901,Holy Diver,Dio,rock,0.2769793923844528
+820,39103707,Tenement Yard,Jacob Miller,reggae,9388130,Tenement Yard,Jacob Miller,reggae,0.19485990436643186
+821,31987630,Space Cadet,Kyuss,rock,31987629,Demon Cleaner,Kyuss,rock,0.21116561353540542
+822,40499345,Practice What You Preach (LP Version),Testament,rock,40500135,Electric Crown  (LP Version),Testament,rock,0.13549689895340966
+823,54778175,So Far Under,Alice In Chains,rock,52819113,The One You Know,Alice In Chains,rock,0.18045711199029058
+824,47100458,Train To Skaville,The Ethiopians,reggae,8677085,Rock Steady - Original,Alton Ellis,reggae,0.14651439013550793
+825,46859953,Bring It On Home,Sonny Boy Williamson,blues,46872072,Statesboro Blues,Taj Mahal,blues,0.16561303753175094
+826,47307230,Downpressor Man,Peter Tosh,reggae,43042968,Wanted Dread and Alive (2002 Remastered Version),Peter Tosh,reggae,0.2086854140067559
+827,46023074,2049,Hans Zimmer,score,34922750,Cornfield Chase,Hans Zimmer,score,0.2957544094827058
+828,9209603,Super Charger Heaven,White Zombie,rock,9209639,Welcome To Planet Motherfucker/ Psychoholic Slag,White Zombie,rock,0.19211029754442932
+829,9275876,The International Herb,Culture,reggae,57420608,Sinsemilla,Black Uhuru,reggae,0.1118378991075254
+830,47009034,The Dark End Of The Street,James Carr,soul,47787030,The Dark End Of The Street,James Carr,soul,0.26693176527317986
+831,38983061,If Trouble Was Money (Live),Gary Clark Jr.,rock,38984745,Hideaway,Freddie King,blues,0.32696046543070223
+832,53270789,Material Man,Gregory Isaacs,reggae,53270788,Hot Stepper,Gregory Isaacs,reggae,0.13817914770841666
+833,9217615,Juke,Little Walter,blues,8134305,Eyesight To The Blind,Sonny Boy Williamson,blues,0.05946018064550895
+834,14254815,In Your Face,Children Of Bodom,metal,14255151,Needled 24 / 7,Children Of Bodom,metal,0.086415895535075
+835,7831266,Make Me A Pallet On Your Floor,Mississippi John Hurt,blues,6295192,Devil Got My Woman,Skip James,blues,0.11991654295901844
+836,43211192,Same Old Blues,Freddie King,blues,34418471,"Troubles, Troubles, Troubles",Otis Rush,blues,0.20068258886201107
+837,57420608,Sinsemilla,Black Uhuru,reggae,9275876,The International Herb,Culture,reggae,0.1118378991075254
+838,8677085,Rock Steady - Original,Alton Ellis,reggae,47100458,Train To Skaville,The Ethiopians,reggae,0.14651439013550793
+839,49649958,Self Destructive Blues,Johnny Winter,blues,46872072,Statesboro Blues,Taj Mahal,blues,0.19616575606026132
+840,39451657,Grinnin' in Your Face,Son House,blues,49566164,Death Letter Blues,Son House,blues,0.15092139118378056
+841,48112456,Old Black Mattie,R.L. Burnside,blues,8136023,Don't Start Me Talkin',Sonny Boy Williamson,blues,0.0671520776626392
+842,46265307,Face Your Fear,Curtis Harding,rnb,45816498,Go As You Are,Curtis Harding,rnb,0.23713134848976414
+843,30388100,My Angel (Malaika),Harry Belafonte,pop,8676863,I'm Still In Love,Alton Ellis,reggae,0.4274443288781463
+844,55800085,Koyaanisqatsi,Philip Glass,classical,38129864,Opening,Philip Glass,classical,0.3299872240942643
+845,49458950,Different Strokes,Syl Johnson,soul,10315320,Is It Because I'm Black,Syl Johnson,soul,0.23190431441779813
+846,41004379,Train To Skaville,The Ethiopians,reggae,46952629,Handsworth Revolution,Steel Pulse,reggae,0.21516427215956135
+847,46952643,Youth Of Eglington,Black Uhuru,reggae,46890263,Right Time,The Mighty Diamonds,reggae,0.11823139926755821
+848,53117058,Katie Mae Blues,Lightnin' Hopkins,blues,43147521,Black Snake Moan,Blind Lemon Jefferson,blues,0.09292461741501701
+849,8136023,Don't Start Me Talkin',Sonny Boy Williamson,blues,47820620,Good Morning School Girl (2002 Remastered),Sonny Boy Williamson,blues,0.02444118554695085
+850,40455859,Warm And Tender Love,Percy Sledge,pop,53783870,You Don't Miss Your Water,William Bell,rnb,0.23333885191998038
+851,32896820,Bled For Days,Static-X,rock,32896818,I'm With Stupid,Static-X,rock,0.07005696073808498
+852,49577452,Back Door Man,Willie Dixon,blues,14720889,Help Me,Sonny Boy Williamson II,blues,0.1571069492978625
+853,46952623,Slavery Days,Burning Spear,reggae,57016289,Marcus Garvey,Burning Spear,reggae,0.10697059460793035
+854,29996367,Pipeline,Stevie Ray Vaughan,rock,50161305,The Sky Is Crying,Stevie Ray Vaughan,rock,0.24330196984115637
+855,28756663,I Still Got It,Lee Fields,rnb,42373233,The World (Is Going Up In Flames),Charles Bradley,rnb,0.21325307992724885
+856,32121124,Poison In The Well,William Bell,rnb,32121123,The Three Of Me,William Bell,rnb,0.31631943659000183
+857,14254775,Living Dead Beat,Children Of Bodom,metal,14254815,In Your Face,Children Of Bodom,metal,0.1223453477720936
+858,48010780,People Funny Boy,"Lee ""Scratch"" Perry",reggae,41004379,Train To Skaville,The Ethiopians,reggae,0.22422760247783635
+859,39443750,Summer Overture,Clint Mansell,score,24006355,Lux Aeterna,Clint Mansell,score,0.19872916441399247
+860,8134305,Eyesight To The Blind,Sonny Boy Williamson,blues,9217615,Juke,Little Walter,blues,0.05946018064550895
+861,33823708,I Was Born A Winner,Freddie McGregor,reggae,33317505,Can't Stop A Man,Beres Hammond,reggae,0.1307311328378512
+862,54338726,Disco Devil,"Lee ""Scratch"" Perry",reggae,57016289,Marcus Garvey,Burning Spear,reggae,0.3320275137032037
+863,41446706,Show Yourself,Mastodon,metal,41446708,Steambreather,Mastodon,metal,0.18965481944770124
+864,56592893,Two Sevens Clash,Culture,reggae,9275876,The International Herb,Culture,reggae,0.2728517917619204
+865,31947387,Perfect Darkness,Fink,alternative,31947327,Perfect Darkness,Fink,alternative,0.1634808979826241
+866,46890263,Right Time,The Mighty Diamonds,reggae,46952643,Youth Of Eglington,Black Uhuru,reggae,0.11823139926755821
+867,47820620,Good Morning School Girl (2002 Remastered),Sonny Boy Williamson,blues,8136023,Don't Start Me Talkin',Sonny Boy Williamson,blues,0.02444118554695085
+868,9209639,Welcome To Planet Motherfucker/ Psychoholic Slag,White Zombie,rock,46984370,Thunder Kiss '65,White Zombie,rock,0.17292098416964008
+869,46860754,Stand By Me,Ben E. King,pop,47052897,Lean on Me,Bill Withers,pop,0.37228843770305475
+870,51947682,Honey Dove,Lee Fields,rnb,37581733,Let's Straighten It Out,O.V. Wright,rnb,0.24332455880038628
+871,29406357,Chase The Devil,Max Romeo,reggae,32307368,Chase The Devil,Max Romeo,reggae,0.17619692180458746
+872,49147933,The Dark End Of The Street (LP Version),Percy Sledge,pop,41129881,These Arms Of Mine,Otis Redding,soul,0.17532007898831115
+873,6386730,Burn Up feat. Jimmy Page,Jimmy Page,rock,49649567,Veteran of the Psychic Wars,Blue Öyster Cult,rock,0.29101969829437035
+874,51290981,Hellhound On My Trail (Album Version),Robert Johnson,blues,7834073,I Ain't Superstitious,Willie Dixon,blues,0.24052602359911324
+875,9090117,Johnny Too Bad,Bunny Wailer,reggae,40841033,Stick By Me,John Holt,reggae,0.22106016751320678
+876,32031027,Angel of Mercy,Black Label Society,rock,49451828,Tired,Stone Sour,rock,0.366275745106147
+877,46925028,Big My Secret,Michael Nyman,score,8400588,The Promise,Michael Nyman,score,0.20049269288110927
+878,8767895,Sonny's Lettah (Anti-Sus Poem),Linton Kwesi Johnson,reggae,8767899,Fite Dem Back,Linton Kwesi Johnson,reggae,0.2096830174048261
+879,54499013,Marcus Garvey,Burning Spear,reggae,46952623,Slavery Days,Burning Spear,reggae,0.18743602392993886
+880,10315320,Is It Because I'm Black,Syl Johnson,soul,10316266,Is It Because I'm Black,Syl Johnson,soul,0.2091542985655216
+881,44971036,Dragonstone,Ramin Djawadi,score,37905128,Main Title Theme – Westworld,Ramin Djawadi,score,0.22785421186881571
+882,45008338,Wednesday Morning Atonement,Curtis Harding,rnb,45816498,Go As You Are,Curtis Harding,rnb,0.17466137883904598
+883,41205010,I'm Shakin',Little Willie John,blues,42705008,Fever,Little Willie John,blues,0.22131568636496102
+884,25989524,On the Road Again,Jack Broadbent,blues,49509548,On the Road Again (Live),Jack Broadbent,blues,0.17939009078272716
+885,10176955,Joy Ride Dub (Taxi),Sly and Robbie,reggae,33467488,96°Degrees In The Shade,Third World,reggae,0.18364339565630106
+886,37172376,Main Titles - Fantastic Beasts and Where to Find Them Theme,James Newton Howard,score,34823282,"The Breaking Of The Fellowship (feat. ""In Dreams"")",Howard Shore,score,0.1980364604993582
+887,47024168,Boogie Children,John Lee Hooker,blues,40115299,Boom Boom,John Lee Hooker,blues,0.16529552799790803
+888,47432336,Don't Play That Song (You Lied),Ben E. King,pop,41522803,Cupid,Sam Cooke,pop,0.253414506117162
+889,16404299,Karma (Hardline),Jamie N Commons,alternative,16404322,Not Gonna Break Me,Jamie N Commons,alternative,0.32127489942524745
+890,48483772,Trampled Down Below,Black Label Society,rock,48198913,Lightning Strike,Judas Priest,rock,0.1937043169057825
+891,45363178,Need Your Love,Curtis Harding,rnb,45816498,Go As You Are,Curtis Harding,rnb,0.15514062260660444
+892,37356332,Let My Baby Ride,R.L. Burnside,blues,37356334,It's Bad You Know,R.L. Burnside,blues,0.247729435455753
+893,11044467,Motherless Child,O.V. Wright,rnb,47216451,Ace Of Spades,O.V. Wright,rnb,0.2383548116615679
+894,40321756,Funky Street,Arthur Conley,soul,40455914,"Shake, Rattle & Roll",Arthur Conley,soul,0.24892015821060143
+895,34823265,Many Meetings,Howard Shore,score,39443755,Concerning Hobbits,Howard Shore,score,0.10830244199682681
+896,51714241,Heart-Shaped Box (From Westworld: Season 2),Ramin Djawadi,score,37905128,Main Title Theme – Westworld,Ramin Djawadi,score,0.2178859580187339
+897,38948918,Black Dog,Led Zeppelin,rock,38948921,Stairway To Heaven,Led Zeppelin,rock,0.24092187320837866
+898,42940452,Better Must Come,Delroy Wilson,reggae,36764536,"Dubbing Is a Must, Pt. 1 (Remastered) [2010]",Pablo Moses,reggae,0.15340383515514855
+899,37581733,Let's Straighten It Out,O.V. Wright,rnb,10316266,Is It Because I'm Black,Syl Johnson,soul,0.19504238018687958
+900,10222256,In The Skies,Peter Green,rock,10222265,Slabo Day,Peter Green,rock,0.2594810314621171
+901,41509573,Should I,Dennis Brown,reggae,33464842,Promised Land,Dennis Brown,reggae,0.17488831974472385
+902,40801216,Double Trouble,Otis Rush,blues,48237611,Call It Stormy Monday,T-Bone Walker,blues,0.18925405417247876
+903,48860491,Puff She Puff,Black Uhuru,reggae,46952643,Youth Of Eglington,Black Uhuru,reggae,0.16502103974652693
+904,33562217,The Wilde Flowers,Opeth,rock,38011388,Sorceress,Opeth,rock,0.20133043494738356
+905,41649523,Hound Dog,Big Mama Thornton,blues,54450029,My Babe,Little Walter,blues,0.17325030752468096
+906,41446708,Steambreather,Mastodon,metal,41446706,Show Yourself,Mastodon,metal,0.18965481944770124
+907,8588864,Lost Mi Love,Yellowman,reggae,8588890,Zungguzungguguzungguzung,Yellowman,reggae,0.18473430343009056
+908,12262287,Wonderful Life,Jono McCleery,alternative,12262350,Ballade,Jono McCleery,alternative,0.3390216406230654
+909,34823271,The Prophecy,Howard Shore,score,34823265,Many Meetings,Howard Shore,score,0.2412296681256325
+910,42735361,Last Night (Album Version),Little Walter,blues,54450029,My Babe,Little Walter,blues,0.25138486212170574
+911,37356334,It's Bad You Know,R.L. Burnside,blues,37356332,Let My Baby Ride,R.L. Burnside,blues,0.247729435455753
+912,48237611,Call It Stormy Monday,T-Bone Walker,blues,40801216,Double Trouble,Otis Rush,blues,0.18925405417247876
+913,47226607,Nobody's Fault But Mine,Jimmy Page,rock,29883560,Thank You,Jimmy Page,rock,0.12765378529750715
+914,41352906,Need Your Love So Bad,Little Willie John,blues,49577452,Back Door Man,Willie Dixon,blues,0.23241725977095773
+915,47787030,The Dark End Of The Street,James Carr,soul,47009034,The Dark End Of The Street,James Carr,soul,0.26693176527317986
+916,44594538,Goodbyes,Jordan Rakei,soul,25350658,Midnight Mischief,Jordan Rakei,soul,0.21045129742692814
+917,33626984,Stripped,Rammstein,rock,49170402,Engel,Rammstein,rock,0.18417471826786957
+918,9279110,Why Am I A Rastaman?,Culture,reggae,57411613,Police In Helicopter,John Holt,reggae,0.22233557842316265
+919,39321493,Good Thing Going,Sugar Minott,reggae,54022869,Just Don't Want To Be Lonely,Freddie McGregor,reggae,0.2117014499790062
+920,39628025,Could I Be Falling In Love,Syl Johnson,soul,8584172,Common Man,David Ruffin,rnb,0.24876380071802007
+921,17101785,Ouendake (Album Version),Goldmund,electro,17101766,In A Notebook,Goldmund,electro,0.2363475210450543
+922,48021849,007 (Shanty Town),Desmond Dekker,reggae,38363466,I'm Still In Love With You,Alton Ellis,reggae,0.253659502584459
+923,35036335,The Eternal City,Thomas Newman,score,47145299,The Heart Asks Pleasure First,Michael Nyman,score,0.32648493392463906
+924,41135488,Have You Ever Loved a Woman,Freddie King,blues,49577452,Back Door Man,Willie Dixon,blues,0.16531095884652924
+925,49032533,When Something Is Wrong With My Baby,Sam & Dave,soul,31500144,"Never, Never Gonna Give Ya Up",Barry White,pop,0.33893725565827804
+926,8444815,Don't Sell Out,Burning Spear,reggae,48010780,People Funny Boy,"Lee ""Scratch"" Perry",reggae,0.23752499904871616
+927,40842606,Big Boss Man,Jimmy Reed,blues,9217615,Juke,Little Walter,blues,0.16980066243243253
+928,29320155,Bam Bam,Yellowman,reggae,8588890,Zungguzungguguzungguzung,Yellowman,reggae,0.20009567767242742
+929,29149198,Stand By Me,Jimmy Ruffin,rnb,25616755,Ain't No Woman (Like the One I Got),Four Tops,pop,0.26061205799343656
+930,51805886,Natty Dread Taking Over,Culture,reggae,57016289,Marcus Garvey,Burning Spear,reggae,0.21576463496898912
+931,11906425,Judge Dread,Prince Buster,reggae,39485817,Freezing Up Orange Street,Prince Buster,reggae,0.3503025501307797
+932,57213736,Long Way From Home (Live from L.A.),The Lumineers,pop,41498315,Sleep On The Floor,The Lumineers,pop,0.38954544224633325
+933,34418471,"Troubles, Troubles, Troubles",Otis Rush,blues,32124209,I'll Play The Blues For You,Albert King,blues,0.16982872810239868
+934,39324994,You Better Run,Junior Kimbrough,blues,16404262,Lead Me Home,Jamie N Commons,alternative,0.2917603725090522
+935,32405000,Rollin' And Tumblin',Johnny Winter,blues,38984745,Hideaway,Freddie King,blues,0.2685068577773264
+936,32983739,Tin Pan Alley,Stevie Ray Vaughan,rock,47081381,My Home Is In The Delta,Muddy Waters,blues,0.3075086231441033
+937,53597243,Cognac,Buddy Guy,blues,54407106,The Blues Is Alive And Well,Buddy Guy,blues,0.13773898879594515
+938,9435937,Silent Screams,Halford,metal,9435930,Slow Down,Halford,metal,0.21374126223051593
+939,10476903,Crazy Woman,Magic Slim,blues,48235185,How Long Blues,T-Bone Walker,blues,0.22015398820980603
+940,37581770,Goin' Down South,R.L. Burnside,blues,41238437,Broke And Hungry,Blind Lemon Jefferson,blues,0.15146841625456076
+941,47185801,Now That We Found Love (Re-Recorded),Third World,reggae,40659803,Bring It On Home To Me,Sam Cooke,pop,0.39919070273833224
+942,37581591,(You Keep Me) Hangin' On,Ann Peebles,soul,53783870,You Don't Miss Your Water,William Bell,rnb,0.17781382049668804
+943,42720625,My Nerves,Little Willie John,blues,47106044,That's How Strong My Love Is (LP Version),Otis Redding,soul,0.4127519735246329
+944,41451293,Do I Need You,Ann Peebles,soul,41451290,I Can't Stand The Rain,Ann Peebles,soul,0.1904389365880187
+945,47787015,These Ain't Raindrops,James Carr,soul,49147933,The Dark End Of The Street (LP Version),Percy Sledge,pop,0.2650653727512887
+946,40876601,Love I Can Feel,John Holt,reggae,40841033,Stick By Me,John Holt,reggae,0.17228046638215233
+947,41134270,Money In My Pocket,Dennis Brown,reggae,48341854,Baby I'm A Want You,John Holt,reggae,0.23294690666131213
+948,54022869,Just Don't Want To Be Lonely,Freddie McGregor,reggae,33317505,Can't Stop A Man,Beres Hammond,reggae,0.14943091959473287
+949,49561407,Push Come To Shove,Freddie McGregor,reggae,33823708,I Was Born A Winner,Freddie McGregor,reggae,0.14569462075194117
+950,12633648,Version Galore - Original,U-Roy,reggae,49559740,I Man a Grasshopper,Pablo Moses,reggae,0.11363692851597473
+951,39324991,Meet Me in the City,Junior Kimbrough,blues,10418949,Two Bugs And A Roach,Earl Hooker,blues,0.19159423114116347
+952,7834061,Spoonful,Willie Dixon,blues,9217615,Juke,Little Walter,blues,0.1466919628042317
+953,50312775,Migration,Goldmund,electro,56248610,Threnody,Goldmund,electro,0.45710558580241656
+954,29883560,Thank You,Jimmy Page,rock,47226607,Nobody's Fault But Mine,Jimmy Page,rock,0.12765378529750715
+955,9090132,Blackheart Man,Bunny Wailer,reggae,47307230,Downpressor Man,Peter Tosh,reggae,0.22274648060222058
+956,38984745,Hideaway,Freddie King,blues,48237607,Two Bones And A Pick,T-Bone Walker,blues,0.08401285286429372
+957,51413118,Wake The Town,U-Roy,reggae,42792623,Chase The Devil,Max Romeo,reggae,0.336471434590529
+958,56743039,Never Fade,Alice In Chains,rock,56743042,Red Giant,Alice In Chains,rock,0.2247303875022777
+959,45816498,Go As You Are,Curtis Harding,rnb,45363178,Need Your Love,Curtis Harding,rnb,0.15514062260660444
+960,39472726,Blue Guitar,Earl Hooker,blues,10418914,Wah Wah Blues,Earl Hooker,blues,0.19851405201057482
+961,7304822,Last Night,Laurel Aitken,reggae,10176955,Joy Ride Dub (Taxi),Sly and Robbie,reggae,0.43600949306527526
+962,49559740,I Man a Grasshopper,Pablo Moses,reggae,12633648,Version Galore - Original,U-Roy,reggae,0.11363692851597473
+963,16404322,Not Gonna Break Me,Jamie N Commons,alternative,47354453,No Good,Kaleo,alternative,0.3089539105809096
+964,51007446,Go Freddie Go,Freddie McGregor,reggae,48996685,None A Jah Jah Children No Cry,Ras Michael,reggae,0.25973226898518365
+965,10222184,Albatross,Peter Green,rock,10221826,A Fool No More,Peter Green,rock,0.2382306270324951
+966,33824114,I See It In You,Freddie McGregor,reggae,33317505,Can't Stop A Man,Beres Hammond,reggae,0.18067706917634596
+967,32622741,Flying,James Newton Howard,score,39443755,Concerning Hobbits,Howard Shore,score,0.2700967183810449
+968,41238437,Broke And Hungry,Blind Lemon Jefferson,blues,37581770,Goin' Down South,R.L. Burnside,blues,0.15146841625456076
+969,48483767,A Love Unreal,Black Label Society,rock,48483772,Trampled Down Below,Black Label Society,rock,0.25327255013488637
+970,32405639,Shed So Many Tears,Johnny Winter,blues,10221826,A Fool No More,Peter Green,rock,0.24676827676702495
+971,8767954,Street 66,Linton Kwesi Johnson,reggae,8767895,Sonny's Lettah (Anti-Sus Poem),Linton Kwesi Johnson,reggae,0.26139218957450105
+972,40842292,Devil Got My Woman,Skip James,blues,6295192,Devil Got My Woman,Skip James,blues,0.20838341641221048
+973,40857468,Nothin' but the Blues (Remastered 2001),Lightnin' Hopkins,blues,48237607,Two Bones And A Pick,T-Bone Walker,blues,0.06276607915596555
+974,12262256,Darkest Light,Jono McCleery,alternative,41517604,River,Leon Bridges,soul,0.4414926011580891
+975,9389206,"Wish You a Merry Christmas (feat. Ray I, Inner Circle)",Jacob Miller,reggae,46868626,This Christmas,Donny Hathaway,soul,0.30494387948063106
+976,29307276,Opening,Philip Glass,classical,38129864,Opening,Philip Glass,classical,0.2936244198360467
+977,54666988,Bass Culture,Linton Kwesi Johnson,reggae,46952623,Slavery Days,Burning Spear,reggae,0.3489014032476626
+978,37987430,Hit The Road Jack,Big Youth,reggae,46952007,One Step Forward,Max Romeo,reggae,0.2555058444884958
+979,51804523,Match Box Blues,Blind Lemon Jefferson,blues,34880584,Meet You At The Chicken Shack,Lightnin' Hopkins,blues,0.0760688794907971
+980,33467458,Jah Glory,Third World,reggae,57420608,Sinsemilla,Black Uhuru,reggae,0.27312359562334754
+981,41606304,Zion Gate Dub,King Tubby,reggae,8685476,Throw Away Your Gun,Prince Far I,reggae,0.15743687114853178
+982,10451714,Pouring Water On a Drowning Man (Version 2),James Carr,soul,47216451,Ace Of Spades,O.V. Wright,rnb,0.16217986847290855
+983,36059643,See That My Grave's Kept Clean,Blind Lemon Jefferson,blues,51804523,Match Box Blues,Blind Lemon Jefferson,blues,0.10697167103682126
+984,28756915,Never Be Another You,Lee Fields,rnb,45816498,Go As You Are,Curtis Harding,rnb,0.35465924360489387
+985,10476951,Before You Accuse Me,Magic Slim,blues,10476957,Goin' to Mississippi,Magic Slim,blues,0.18792580934469882
+986,42430169,She Knows How To Rock Me,Taj Mahal,blues,42430163,Om Sweet Om,Taj Mahal,blues,0.16232022153480918
+987,12908780,Anti-Nuclear Bacteria,Tool,electro,33627087,Heirate Mich,Rammstein,rock,0.44007284276067204
+988,48487085,Louis Collins,Mississippi John Hurt,blues,50895275,Back Door Man,Willie Dixon,blues,0.289360267329305
+989,56455657,Bam Bam,Yellowman,reggae,53270788,Hot Stepper,Gregory Isaacs,reggae,0.2810277691128954
+990,53117048,Abilene,Lightnin' Hopkins,blues,34880584,Meet You At The Chicken Shack,Lightnin' Hopkins,blues,0.10282494692346922
+991,33137955,Firehouse Rock,Wailing Souls,reggae,42940452,Better Must Come,Delroy Wilson,reggae,0.17226110834633424
+992,7357985,You're Losing Me,Ann Sexton,rnb,7358038,You've Been Gone Too Long - Original,Ann Sexton,rnb,0.2874072095945235
+993,53783870,You Don't Miss Your Water,William Bell,rnb,37581591,(You Keep Me) Hangin' On,Ann Peebles,soul,0.17781382049668804
+994,10419545,Blue Guitar,Earl Hooker,blues,8133849,Help Me,Sonny Boy Williamson,blues,0.19413781057608048
+995,48237607,Two Bones And A Pick,T-Bone Walker,blues,40857468,Nothin' but the Blues (Remastered 2001),Lightnin' Hopkins,blues,0.06276607915596555
+996,8645028,Genuine Lover,Sugar Minott,reggae,47066960,Book Of Rules,The Heptones,reggae,0.2987293713713828
+997,54407106,The Blues Is Alive And Well,Buddy Guy,blues,53597243,Cognac,Buddy Guy,blues,0.13773898879594515
+998,31968151,Cotton Fields (Live),Harry Belafonte,pop,47081381,My Home Is In The Delta,Muddy Waters,blues,0.3818593202273032
+999,45092623,Zion's Blood,"Lee ""Scratch"" Perry",reggae,45094915,The I Of The Storm / Selassie I Dub,Mad Professor,reggae,0.27594865921719014
+1000,10180149,Jail House Dub,Mad Professor,reggae,41606304,Zion Gate Dub,King Tubby,reggae,0.25896850588214604
+1001,47207061,Tenement Yard,Jacob Miller,reggae,9090095,Mellow Mood,Bunny Wailer,reggae,0.21214535137880097
+1002,14720889,Help Me,Sonny Boy Williamson II,blues,49577452,Back Door Man,Willie Dixon,blues,0.1571069492978625
+1003,47216451,Ace Of Spades,O.V. Wright,rnb,10451714,Pouring Water On a Drowning Man (Version 2),James Carr,soul,0.16217986847290855
+1004,25989580,Slide it in,Jack Broadbent,blues,10419545,Blue Guitar,Earl Hooker,blues,0.4732429808804264
+1005,51538475,Good Thing Going,Sugar Minott,reggae,39321493,Good Thing Going,Sugar Minott,reggae,0.23267726361502405
+1006,42679413,Holy Diver,Dio,rock,46924245,The Trooper (1998 Remastered Version),Iron Maiden,rock,0.35296170992383213
+1007,7879262,Dub Fire,Aswad,reggae,49510897,Steppin' Out,Steel Pulse,reggae,0.2128581693276388
+1008,40791190,Breaking Up,Alton Ellis,reggae,41004373,Here I Come,Dennis Brown,reggae,0.23790051438381254
+1009,34880584,Meet You At The Chicken Shack,Lightnin' Hopkins,blues,51804523,Match Box Blues,Blind Lemon Jefferson,blues,0.0760688794907971
+1010,33467348,Talk About It,The Mighty Diamonds,reggae,46952007,One Step Forward,Max Romeo,reggae,0.2772342627557871
+1011,38363466,I'm Still In Love With You,Alton Ellis,reggae,48021849,007 (Shanty Town),Desmond Dekker,reggae,0.253659502584459
+1012,8677411,These Eyes,Alton Ellis,reggae,41004373,Here I Come,Dennis Brown,reggae,0.2515117634897236
+1013,26943060,Stillborn,Black Label Society,rock,47022354,Symphony Of Destruction,Megadeth,metal,0.242124458684001
+1014,41331570,All Around The World,Taj Mahal,blues,42430163,Om Sweet Om,Taj Mahal,blues,0.17356399255060706
+1015,42430163,Om Sweet Om,Taj Mahal,blues,42430169,She Knows How To Rock Me,Taj Mahal,blues,0.16232022153480918
+1016,41629630,Honest I Do,Jimmy Reed,blues,40842606,Big Boss Man,Jimmy Reed,blues,0.20732654078592738
+1017,10221818,Tribal Dance,Peter Green,rock,10222184,Albatross,Peter Green,rock,0.3399560062474265
+1018,7834073,I Ain't Superstitious,Willie Dixon,blues,51290981,Hellhound On My Trail (Album Version),Robert Johnson,blues,0.24052602359911324
+1019,34926132,Vietnam,T-Bone Walker,blues,55810917,Voodoo Child (Slight Return),Jimi Hendrix,rock,0.4061874613908598
+1020,42159733,Guns of Navarone,The Skatalites,reggae,39485817,Freezing Up Orange Street,Prince Buster,reggae,0.24740484092132298
+1021,9069582,Suspicious Mind,The Heptones,reggae,8677411,These Eyes,Alton Ellis,reggae,0.25770606000745055
+1022,36764536,"Dubbing Is a Must, Pt. 1 (Remastered) [2010]",Pablo Moses,reggae,42940452,Better Must Come,Delroy Wilson,reggae,0.15340383515514855
+1023,37988034,Mr. Sun,Don Carlos,reggae,57411613,Police In Helicopter,John Holt,reggae,0.25717516594934153
+1024,10418914,Wah Wah Blues,Earl Hooker,blues,39472726,Blue Guitar,Earl Hooker,blues,0.19851405201057482
+1025,48235185,How Long Blues,T-Bone Walker,blues,10476903,Crazy Woman,Magic Slim,blues,0.22015398820980603
+1026,8667058,I Shall Be Released,Delroy Wilson,reggae,8677411,These Eyes,Alton Ellis,reggae,0.2584815679042525
+1027,39324993,Done Got Old,Junior Kimbrough,blues,39451657,Grinnin' in Your Face,Son House,blues,0.2744440427845669
+1028,12262307,Fears,Jono McCleery,alternative,12262287,Wonderful Life,Jono McCleery,alternative,0.3491305676695208
+1029,40435373,Hard Time Killin' Floor Blues,Skip James,blues,40842292,Devil Got My Woman,Skip James,blues,0.21744063299894878
+1030,7358038,You've Been Gone Too Long - Original,Ann Sexton,rnb,46953544,You've Been Gone Too Long,Ann Sexton,rnb,0.2254635435717256
+1031,46953544,You've Been Gone Too Long,Ann Sexton,rnb,7358038,You've Been Gone Too Long - Original,Ann Sexton,rnb,0.2254635435717256
+1032,51538466,Lovers Rock,Sugar Minott,reggae,48341854,Baby I'm A Want You,John Holt,reggae,0.1897763814017277
+1033,50895275,Back Door Man,Willie Dixon,blues,8077213,Moon Blues,Otis Spann,blues,0.1445349058248906
+1034,8685566,Heavy Manners/ Heavyweight Version,Prince Far I,reggae,8664612,Gorgon Dub (feat. Cornell Campbell),King Tubby,reggae,0.2891456996813183
+1035,45092606,Chase the Devil,"Lee ""Scratch"" Perry",reggae,45092623,Zion's Blood,"Lee ""Scratch"" Perry",reggae,0.30463386219096444
+1036,47357102,Chalice In The Palace,U-Roy,reggae,37988023,Pass The Kutchie,The Mighty Diamonds,reggae,0.29395821718324944
+1037,48483771,Seasons Of Falter,Black Label Society,rock,48483772,Trampled Down Below,Black Label Society,rock,0.23275002100925302
+1038,47258562,Boogie In My Bones,Laurel Aitken,reggae,9221295,Freedom Sounds,The Skatalites,reggae,0.3363642477587946
+1039,39626931,I Feel Love Growin',O.V. Wright,rnb,39626933,The Time We Have,O.V. Wright,rnb,0.1558247917143476
+1040,8077213,Moon Blues,Otis Spann,blues,50895275,Back Door Man,Willie Dixon,blues,0.1445349058248906
+1041,40455914,"Shake, Rattle & Roll",Arthur Conley,soul,49768673,A Change Is Gonna Come,Arthur Conley,soul,0.20339638008243244
+1042,36764526,"Ready, Aim, Fire",Pablo Moses,reggae,36764534,Proverbs Extractions,Pablo Moses,reggae,0.18770562685597825
+1043,45094915,The I Of The Storm / Selassie I Dub,Mad Professor,reggae,45092623,Zion's Blood,"Lee ""Scratch"" Perry",reggae,0.27594865921719014
+1044,48477946,Oh Mr. DC,Sugar Minott,reggae,41004373,Here I Come,Dennis Brown,reggae,0.22872092711118464
+1045,49768673,A Change Is Gonna Come,Arthur Conley,soul,40455914,"Shake, Rattle & Roll",Arthur Conley,soul,0.20339638008243244
+1046,8685476,Throw Away Your Gun,Prince Far I,reggae,47899115,Message From The King,Prince Far I,reggae,0.15703964825855066
+1047,55221175,Not Guilty,Aswad,reggae,32307368,Chase The Devil,Max Romeo,reggae,0.5271616219783839
+1048,56743042,Red Giant,Alice In Chains,rock,56743040,Rainier Fog,Alice In Chains,rock,0.15021308184656734
+1049,37581534,Feels So Good #2,Junior Kimbrough,blues,39324991,Meet Me in the City,Junior Kimbrough,blues,0.379556891475901
+1050,56743040,Rainier Fog,Alice In Chains,rock,56743042,Red Giant,Alice In Chains,rock,0.15021308184656734
+1051,8685852,I Love Marijuana,Linval Thompson,reggae,37988023,Pass The Kutchie,The Mighty Diamonds,reggae,0.24852610080050996
+1052,40457160,Big Six,Judge Dread,reggae,43761408,Up With the Cock,Judge Dread,reggae,0.19996141041211857
+1053,8677478,None Shall Escape,Johnny Clarke,reggae,10181511,The Anti-Racist Dub Broadcast,Mad Professor,reggae,0.2141258987489043
+1054,54407109,A Few Good Years,Buddy Guy,blues,54407110,Guilty As Charged,Buddy Guy,blues,0.19218724892513595
+1055,48341854,Baby I'm A Want You,John Holt,reggae,51538466,Lovers Rock,Sugar Minott,reggae,0.1897763814017277
+1056,14720783,Don't Start Me To Talking,Sonny Boy Williamson II,blues,40115299,Boom Boom,John Lee Hooker,blues,0.22013702765429288
+1057,10418949,Two Bugs And A Roach,Earl Hooker,blues,39324991,Meet Me in the City,Junior Kimbrough,blues,0.19159423114116347
+1058,49509548,On the Road Again (Live),Jack Broadbent,blues,25989524,On the Road Again,Jack Broadbent,blues,0.17939009078272716
+1059,34094827,Fannin Street,John Hammond,blues,39451657,Grinnin' in Your Face,Son House,blues,0.4876765652459837
+1060,40842495,Otis In The Dark,Otis Spann,blues,40801213,Three Times A Fool,Otis Rush,blues,0.2047512263889837
+1061,31807626,The Professor Of Dub,King Tubby,reggae,33138068,Bredda Gravalicious,Wailing Souls,reggae,0.39723760397107355
+1062,26924270,Sufferer's Time,The Heptones,reggae,41606304,Zion Gate Dub,King Tubby,reggae,0.3173078032904456
+1063,8632388,What Becomes Of The Broken Hearted,Jimmy Ruffin,rnb,47013413,My Whole World Ended (The Moment You Left Me),David Ruffin,rnb,0.3017642058275041
+1064,8675929,Roots Natty,Johnny Clarke,reggae,24092339,Just Say Who (Extended Version),Delroy Wilson,reggae,0.17550394254198187
+1065,39101597,S.90 Skank,Big Youth,reggae,48477744,Fever Teaser,Dennis Alcapone,reggae,0.21457917411317895
+1066,8685132,Your Teeth In My Neck,Scientist,reggae,8685172,Dance Of The Vampires,Scientist,reggae,0.25790104509584755
+1067,8767948,Brain Smashing,Linton Kwesi Johnson,reggae,39413277,Freedom Fighter,Linval Thompson,reggae,0.20144528082613522
+1068,53132329,I Love Marijuana,Linval Thompson,reggae,57411613,Police In Helicopter,John Holt,reggae,0.23551867029885343
+1069,8685463,Jah Do That,Prince Far I,reggae,8685476,Throw Away Your Gun,Prince Far I,reggae,0.20831021984685316
+1070,36080095,Dancing Mood,Delroy Wilson,reggae,8677085,Rock Steady - Original,Alton Ellis,reggae,0.3726961340983852
+1071,9276537,Humble African,Culture,reggae,46952620,Cool Down The Pace,Gregory Isaacs,reggae,0.27661669565910707
+1072,39626933,The Time We Have,O.V. Wright,rnb,39626931,I Feel Love Growin',O.V. Wright,rnb,0.1558247917143476
+1073,8663126,Crabbit Version,King Tubby,reggae,8767948,Brain Smashing,Linton Kwesi Johnson,reggae,0.3557346330680513
+1074,42853111,Ain't No Tellin',Mississippi John Hurt,blues,32405639,Shed So Many Tears,Johnny Winter,blues,0.2903991224804445
+1075,44190959,Sweet Soul Music,Arthur Conley,soul,10087375,(Your Love Keeps Lifting Me) Higher and Higher,Jackie Wilson,pop,0.47386822071038526
+1076,50766948,The Night Café,Clint Mansell,score,17101766,In A Notebook,Goldmund,electro,0.38633628607321413
+1077,8685534,Bad Days Dub,Scientist,reggae,8685476,Throw Away Your Gun,Prince Far I,reggae,0.3081205627855468
+1078,26727010,Marijuana (feat. Don Carlos),Don Carlos,world,57420608,Sinsemilla,Black Uhuru,reggae,0.36856500969276185
+1079,48996685,None A Jah Jah Children No Cry,Ras Michael,reggae,51007446,Go Freddie Go,Freddie McGregor,reggae,0.25973226898518365
+1080,34094819,2:19,John Hammond,blues,8077213,Moon Blues,Otis Spann,blues,0.2217112792035556
+1081,32676085,Boom Boom Boom (feat. Don Carlos & G Eazy),Don Carlos,world,32675388,Boom Boom Boom (feat. Don Carlos & G Eazy),Don Carlos,world,0.4626822588336469
+1082,55336736,Walls,Jamie N Commons,alternative,46861847,Way Down We Go,Kaleo,alternative,0.38183707726056426
+1083,47887052,Declaration Of Rights,Johnny Clarke,reggae,47676541,"Roots, Natty Roots, Natty Congo",Johnny Clarke,reggae,0.24416901143081415
+1084,43432973,Big Six,Judge Dread,reggae,40457144,Dread's Almanack,Judge Dread,reggae,0.18164364192375348
+1085,34094808,Shore Leave,John Hammond,blues,8077213,Moon Blues,Otis Spann,blues,0.20342423547801747
+1086,41513873,Cassius Clay,Dennis Alcapone,reggae,24092339,Just Say Who (Extended Version),Delroy Wilson,reggae,0.22170869126530945
+1087,9222216,Guns of Navarone (Live),The Skatalites,reggae,47100458,Train To Skaville,The Ethiopians,reggae,0.20723392875283964
+1088,6691468,Ina Disa Time (7'),The Itals,reggae,46952643,Youth Of Eglington,Black Uhuru,reggae,0.28156324977504443
+1089,34172395,Unlisted,T-Model Ford,blues,10418914,Wah Wah Blues,Earl Hooker,blues,0.29427569455488933
+1090,6725168,Train To Skaville - Original,The Ethiopians,reggae,48074682,Hearsay,The Gladiators,reggae,0.2582174060825475
+1091,33467233,Reggae Street,The Mighty Diamonds,reggae,46952007,One Step Forward,Max Romeo,reggae,0.23417098263223757
+1092,8685526,Taxi to Baltimore Dub,Scientist,reggae,47199122,Police In Helicopter,John Holt,reggae,0.2768397071063765
+1093,8076987,Bloody Murder,Otis Spann,blues,49577452,Back Door Man,Willie Dixon,blues,0.18866778000121953
+1094,8685172,Dance Of The Vampires,Scientist,reggae,8685132,Your Teeth In My Neck,Scientist,reggae,0.25790104509584755
+1095,40801213,Three Times A Fool,Otis Rush,blues,40842495,Otis In The Dark,Otis Spann,blues,0.2047512263889837
+1096,10476957,Goin' to Mississippi,Magic Slim,blues,10476893,What's Wrong,Magic Slim,blues,0.16465607618690403
+1097,47066914,Bredda Gravalicious,Wailing Souls,reggae,46952623,Slavery Days,Burning Spear,reggae,0.29592282382426227
+1098,33138068,Bredda Gravalicious,Wailing Souls,reggae,46952623,Slavery Days,Burning Spear,reggae,0.28102754015833376
+1099,47899115,Message From The King,Prince Far I,reggae,8685476,Throw Away Your Gun,Prince Far I,reggae,0.15703964825855066
+1100,34094101,Evil (Is Going On),John Hammond,blues,39472726,Blue Guitar,Earl Hooker,blues,0.2949039962201563
+1101,7834075,The Same Thing,Willie Dixon,blues,49577452,Back Door Man,Willie Dixon,blues,0.1706272113761954
+1102,31285318,Soul Fire Dub,Mad Professor,reggae,10180149,Jail House Dub,Mad Professor,reggae,0.3339703444875277
+1103,10182929,Sahara Dub,Mad Professor,reggae,10180149,Jail House Dub,Mad Professor,reggae,0.32921875125294175
+1104,10476964,Mustang Sally,Magic Slim,blues,10476957,Goin' to Mississippi,Magic Slim,blues,0.1727519342878946
+1105,39101646,I'm Still Waiting,Delroy Wilson,reggae,40841033,Stick By Me,John Holt,reggae,0.26506052722535933
+1106,40221292,Engine 54,The Ethiopians,reggae,40791190,Breaking Up,Alton Ellis,reggae,0.2860489813452066
+1107,48074683,Eli Eli,The Gladiators,reggae,48074686,Bellyfull,The Gladiators,reggae,0.302096198748376
+1108,11906367,Intro / Madness,Prince Buster,reggae,7304489,Rudi Got Married,Laurel Aitken,reggae,0.3026898881381658
+1109,8685106,Golden Goal,Scientist,reggae,8685172,Dance Of The Vampires,Scientist,reggae,0.5268157977537717
+1110,41606294,You've Been Gone Too Long,Ann Sexton,rnb,7358038,You've Been Gone Too Long - Original,Ann Sexton,rnb,0.25404326799881616
+1111,8641844,All Nation Bow,Big Youth,reggae,8664612,Gorgon Dub (feat. Cornell Campbell),King Tubby,reggae,0.1478075316075943
+1112,42762102,Shame and Pride,The Mighty Diamonds,reggae,8664612,Gorgon Dub (feat. Cornell Campbell),King Tubby,reggae,0.1712229608669733
+1113,52009711,Enjoy Yourself,Prince Buster,reggae,40841033,Stick By Me,John Holt,reggae,0.3083462228917846
+1114,8687054,Mr Collie Man,Linval Thompson,reggae,48477946,Oh Mr. DC,Sugar Minott,reggae,0.2720446544091908
+1115,6295256,Catfish Blues,Skip James,blues,10419545,Blue Guitar,Earl Hooker,blues,0.3132785850983094
+1116,9388286,Mixed Up Moods,Jacob Miller,reggae,41004373,Here I Come,Dennis Brown,reggae,0.27102487667496056
+1117,9090122,Get Up Stand Up,Bunny Wailer,reggae,46952623,Slavery Days,Burning Spear,reggae,0.3391999695485596
+1118,7304597,Sally Brown,Laurel Aitken,reggae,39485817,Freezing Up Orange Street,Prince Buster,reggae,0.23544045986766948
+1119,37686518,No Regrets,Little Willie John,blues,42373233,The World (Is Going Up In Flames),Charles Bradley,rnb,0.433243750666507
+1120,12262389,Bet She Does,Jono McCleery,alternative,12262287,Wonderful Life,Jono McCleery,alternative,0.5266044239568901
+1121,8641959,Natty Dread She Want,Big Youth,reggae,33138041,Stop Red Eye,Wailing Souls,reggae,0.26958345628473535
+1122,7304489,Rudi Got Married,Laurel Aitken,reggae,40457160,Big Six,Judge Dread,reggae,0.29055208154632073
+1123,10315835,I'm Talkin' Bout Freedom,Syl Johnson,soul,37581733,Let's Straighten It Out,O.V. Wright,rnb,0.32800488274371076
+1124,48341910,Dock Of The Bay,Big Youth,reggae,37988023,Pass The Kutchie,The Mighty Diamonds,reggae,0.30388247754352393
+1125,39485817,Freezing Up Orange Street,Prince Buster,reggae,7304597,Sally Brown,Laurel Aitken,reggae,0.23544045986766948
+1126,34670655,Oh Girl - Original,Don Carlos,world,41509573,Should I,Dennis Brown,reggae,0.3163601357775081
+1127,38001877,My Guiding Star,The Heptones,reggae,8664612,Gorgon Dub (feat. Cornell Campbell),King Tubby,reggae,0.22749646035224036
+1128,54407110,Guilty As Charged,Buddy Guy,blues,54407109,A Few Good Years,Buddy Guy,blues,0.19218724892513595
+1129,9221295,Freedom Sounds,The Skatalites,reggae,42159733,Guns of Navarone,The Skatalites,reggae,0.3292953478176428
+1130,57986376,Sister Maggie Breast,I-Roy,reggae,40791190,Breaking Up,Alton Ellis,reggae,0.2778043100590767
+1131,56315081,Let There Be Dark,Clint Mansell,score,34815723,"""You don't dream in cryo. ....""",James Horner,score,0.4665824796730187
+1132,34172409,Chicken Head Man,T-Model Ford,blues,49566164,Death Letter Blues,Son House,blues,0.2118181808153755
+1133,24092339,Just Say Who (Extended Version),Delroy Wilson,reggae,8664612,Gorgon Dub (feat. Cornell Campbell),King Tubby,reggae,0.17403184729438193
+1134,8436843,My Bleeding Heart,Elmore James,blues,42725030,Little Rain,Jimmy Reed,blues,0.27435991597852183
+1135,42725030,Little Rain,Jimmy Reed,blues,8436843,My Bleeding Heart,Elmore James,blues,0.27435991597852183
+1136,48040564,Silent Screams,Halford,metal,9435937,Silent Screams,Halford,metal,0.365093070448653
+1137,10476893,What's Wrong,Magic Slim,blues,10476957,Goin' to Mississippi,Magic Slim,blues,0.16465607618690403
+1138,42770345,Blues Before Sunrise,Elmore James,blues,49577452,Back Door Man,Willie Dixon,blues,0.3088093131637146
+1139,9435930,Slow Down,Halford,metal,9435937,Silent Screams,Halford,metal,0.21374126223051593
+1140,10419570,The Hucklebuck,Earl Hooker,blues,47024168,Boogie Children,John Lee Hooker,blues,0.35646447758348787
+1141,48480022,Guns of Navarone,The Skatalites,reggae,42159733,Guns of Navarone,The Skatalites,reggae,0.2836980313119145
+1142,48074686,Bellyfull,The Gladiators,reggae,48074682,Hearsay,The Gladiators,reggae,0.14881371452318182
+1143,47109262,Eyesight to the Blind,Sonny Boy Williamson II,blues,39428329,Nine Below Zero,Sonny Boy Williamson II,blues,0.3432400330318367
+1144,50087753,Honest I Do,Jimmy Reed,blues,54450029,My Babe,Little Walter,blues,0.3266036206010807
+1145,40457144,Dread's Almanack,Judge Dread,reggae,43432973,Big Six,Judge Dread,reggae,0.18164364192375348
+1146,39101518,Look How Me Sexy,Linval Thompson,reggae,10180149,Jail House Dub,Mad Professor,reggae,0.4446116882633484
+1147,32273160,None A Jah Jah children No Cry,Ras Michael,reggae,41606304,Zion Gate Dub,King Tubby,reggae,0.28600636154025494
+1148,38896216,Death Letter Blues,Son House,blues,40435373,Hard Time Killin' Floor Blues,Skip James,blues,0.28276499235517716
+1149,8591502,Gonna Leave You,Big Mama Thornton,blues,34843937,It Serves You Right To Suffer,John Lee Hooker,blues,0.30068590825681674
+1150,7732533,Roots Natty Roots,The Gladiators,reggae,53270789,Material Man,Gregory Isaacs,reggae,0.30764125132227416
+1151,12262350,Ballade,Jono McCleery,alternative,12262287,Wonderful Life,Jono McCleery,alternative,0.3390216406230654
+1152,8664612,Gorgon Dub (feat. Cornell Campbell),King Tubby,reggae,8641844,All Nation Bow,Big Youth,reggae,0.1478075316075943
+1153,8077080,Half Ain't Been Told,Otis Spann,blues,8133849,Help Me,Sonny Boy Williamson,blues,0.24155020155273432
+1154,51929469,Ways Of The Lord (Remastered Album Version),Aswad,reggae,46952643,Youth Of Eglington,Black Uhuru,reggae,0.34638716265411473
+1155,32675388,Boom Boom Boom (feat. Don Carlos & G Eazy),Don Carlos,world,32676085,Boom Boom Boom (feat. Don Carlos & G Eazy),Don Carlos,world,0.4626822588336469
+1156,25989514,Holdin',Jack Broadbent,blues,38931364,I Can't Go On Without You,Kaleo,alternative,0.43610798211502844
+1157,9436016,Heart Of A Lion,Halford,metal,46887236,Peace Sells,Megadeth,metal,0.29301088226132
+1158,6644412,Spanish Amigo,Dennis Alcapone,reggae,40791190,Breaking Up,Alton Ellis,reggae,0.3479030637791888
+1159,14720769,Keep It to Yourself,Sonny Boy Williamson II,blues,7834061,Spoonful,Willie Dixon,blues,0.3176363502162918
+1160,10181511,The Anti-Racist Dub Broadcast,Mad Professor,reggae,39413277,Freedom Fighter,Linval Thompson,reggae,0.061287467459469336
+1161,9436022,We Three Kings,Halford,metal,9435937,Silent Screams,Halford,metal,0.45988612930144346
+1162,47676541,"Roots, Natty Roots, Natty Congo",Johnny Clarke,reggae,9275876,The International Herb,Culture,reggae,0.23810628753264496
+1163,34094198,Crossroads Blues,John Hammond,blues,46859953,Bring It On Home,Sonny Boy Williamson,blues,0.33446393858295187
+1164,8678219,Waiting in Vain,Johnny Clarke,reggae,37987430,Hit The Road Jack,Big Youth,reggae,0.31196322774853213
+1165,37184151,I'm His Wife (You're Just A Friend),Ann Sexton,rnb,37581733,Let's Straighten It Out,O.V. Wright,rnb,0.2707063611074324
+1166,9221629,Rough & Tough (featuring Stranger Cole),The Skatalites,reggae,39485817,Freezing Up Orange Street,Prince Buster,reggae,0.2674094046675679
+1167,33138041,Stop Red Eye,Wailing Souls,reggae,8685463,Jah Do That,Prince Far I,reggae,0.22611809358266421
+1168,36764534,Proverbs Extractions,Pablo Moses,reggae,36764526,"Ready, Aim, Fire",Pablo Moses,reggae,0.18770562685597825
+1169,33137898,Modern Slavery,Wailing Souls,reggae,39413277,Freedom Fighter,Linval Thompson,reggae,0.1420075335689992
+1170,48006351,Book Of Rules,The Heptones,reggae,57016289,Marcus Garvey,Burning Spear,reggae,0.27444370995561707
+1171,37901467,T-Model Theme Song,T-Model Ford,blues,34172409,Chicken Head Man,T-Model Ford,blues,0.308286328573233
+1172,37901460,Can't Be Touched,T-Model Ford,blues,42679020,Dust My Broom,Elmore James,blues,0.47643302066136817
+1173,25989526,Far Off Galaxy,Jack Broadbent,blues,25989524,On the Road Again,Jack Broadbent,blues,0.3153695060939683
+1174,10176873,Burial Dub,Sly and Robbie,reggae,47199122,Police In Helicopter,John Holt,reggae,0.3269261328998443
+1175,52009704,Hard Man Fe Dead,Prince Buster,reggae,47066914,Bredda Gravalicious,Wailing Souls,reggae,0.3066894013487095
+1176,8632077,Don't You Miss Me a Little Bit Baby,Jimmy Ruffin,rnb,46953544,You've Been Gone Too Long,Ann Sexton,rnb,0.27629720045276296
+1177,12633330,Herbman Skanking,U-Roy,reggae,47899115,Message From The King,Prince Far I,reggae,0.2555508503764493
+1178,51754811,Hard Time Killin' Floor Blues,Skip James,blues,49566164,Death Letter Blues,Son House,blues,0.2468281766498548
+1179,39413277,Freedom Fighter,Linval Thompson,reggae,10181511,The Anti-Racist Dub Broadcast,Mad Professor,reggae,0.061287467459469336
+1180,7732785,Now We Are Free (From 'Gladiator'),The Gladiators,reggae,47307230,Downpressor Man,Peter Tosh,reggae,0.5070609658878131
+1181,45092625,Dread Lion,"Lee ""Scratch"" Perry",reggae,9279110,Why Am I A Rastaman?,Culture,reggae,0.3245870542728637
+1182,43761408,Up With the Cock,Judge Dread,reggae,40457160,Big Six,Judge Dread,reggae,0.19996141041211857
+1183,8061188,The Future,Micheal Jackson,electro,45478801,KILL4ME,Marilyn Manson,rock,0.5939352385626329
+1184,32307448,My Jamaican Collie,Max Romeo,reggae,48477946,Oh Mr. DC,Sugar Minott,reggae,0.23927668700657867
+1185,29474388,NONE OF JAH JAH CHILDREN NO CRY,Ras Michael,reggae,46952643,Youth Of Eglington,Black Uhuru,reggae,0.2665860358855424
+1186,37582011,Everywhere I Go,Junior Kimbrough,blues,37581770,Goin' Down South,R.L. Burnside,blues,0.3442464669727645
+1187,48487084,Candy Man Blues (Album Version),Mississippi John Hurt,blues,7834073,I Ain't Superstitious,Willie Dixon,blues,0.2855303765537146
+1188,44323106,Every Day I Have The Blues,Otis Rush,blues,46706851,Call It Stormy Monday,Albert King,blues,0.27833741205148066
+1189,9090137,Fig Tree,Bunny Wailer,reggae,9090132,Blackheart Man,Bunny Wailer,reggae,0.24078457433477618
+1190,12634047,006,U-Roy,reggae,48477744,Fever Teaser,Dennis Alcapone,reggae,0.23340843746348672
+1191,7305042,Skinhead,Laurel Aitken,reggae,9222216,Guns of Navarone (Live),The Skatalites,reggae,0.33732992803489326
+1192,48477744,Fever Teaser,Dennis Alcapone,reggae,39101597,S.90 Skank,Big Youth,reggae,0.21457917411317895
+1193,6725295,Free - Original,The Ethiopians,reggae,41606304,Zion Gate Dub,King Tubby,reggae,0.3484274494281546
+1194,48074682,Hearsay,The Gladiators,reggae,48074686,Bellyfull,The Gladiators,reggae,0.14881371452318182
+1195,10500214,Reggae & Ska,Judge Dread,reggae,40457160,Big Six,Judge Dread,reggae,0.24576152338449886
+1196,51822418,Take out Some Insurance,Jimmy Reed,blues,34890991,Mojo Hand,Lightnin' Hopkins,blues,0.252651771624668
+1197,45325433,Hound Dog,Big Mama Thornton,blues,54450029,My Babe,Little Walter,blues,0.33614085160343865
+1198,6691471,Don't Wake The Lion,The Itals,reggae,46952619,Night Nurse,Gregory Isaacs,reggae,0.3503173321791626
+1199,39428329,Nine Below Zero,Sonny Boy Williamson II,blues,40842606,Big Boss Man,Jimmy Reed,blues,0.2889290670993574
+1200,6691477,Seeing Is Believing,The Itals,reggae,53270789,Material Man,Gregory Isaacs,reggae,0.3732227911209235
+1201,46433086,See That My Grave Is Kept Clean,Blind Lemon Jefferson,blues,51269685,I Believe I'll Dust My Broom (Album Version),Robert Johnson,blues,0.2880933487933892
